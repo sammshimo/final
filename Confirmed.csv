@@ -1,0 +1,1816 @@
+﻿Province/State,Country/Region,Lat,Long,Date,Number of Cases
+Anhui,Mainland China,31.82571,117.2264,1/21/2020,
+Beijing,Mainland China,40.18238,116.4142,1/21/2020,10
+Chongqing,Mainland China,30.05718,107.874,1/21/2020,5
+Fujian,Mainland China,26.07783,117.9895,1/21/2020,
+Gansu,Mainland China,36.0611,103.8343,1/21/2020,
+Guangdong,Mainland China,23.33841,113.422,1/21/2020,17
+Guangxi,Mainland China,23.82908,108.7881,1/21/2020,
+Guizhou,Mainland China,26.81536,106.8748,1/21/2020,
+Hainan,Mainland China,19.19673,109.7455,1/21/2020,
+Hebei,Mainland China,38.0428,114.5149,1/21/2020,
+Heilongjiang,Mainland China,47.862,127.7622,1/21/2020,
+Henan,Mainland China,33.88202,113.614,1/21/2020,
+Hubei,Mainland China,30.97564,112.2707,1/21/2020,270
+Hunan,Mainland China,27.61041,111.7088,1/21/2020,1
+Inner Mongolia,Mainland China,44.09448,113.9456,1/21/2020,
+Jiangsu,Mainland China,32.97027,119.464,1/21/2020,
+Jiangxi,Mainland China,27.61401,115.7221,1/21/2020,2
+Jilin,Mainland China,43.66657,126.1917,1/21/2020,
+Liaoning,Mainland China,41.29284,122.6086,1/21/2020,
+Ningxia,Mainland China,37.26923,106.1655,1/21/2020,
+Qinghai,Mainland China,35.65945,96.02564,1/21/2020,
+Shaanxi,Mainland China,35.19165,108.8701,1/21/2020,
+Shandong,Mainland China,36.34377,118.1529,1/21/2020,1
+Shanghai,Mainland China,31.20327,121.4554,1/21/2020,9
+Shanxi,Mainland China,37.57769,112.2922,1/21/2020,
+Sichuan,Mainland China,30.61714,102.7103,1/21/2020,2
+Tianjin,Mainland China,39.29362,117.333,1/21/2020,2
+Tibet,Mainland China,30.1534,88.7879,1/21/2020,
+Xinjiang,Mainland China,41.11981,85.17822,1/21/2020,
+Yunnan,Mainland China,24.97411,101.4868,1/21/2020,1
+Zhejiang,Mainland China,29.18251,120.0985,1/21/2020,5
+,Thailand,13.7563,100.5018,1/21/2020,2
+,Japan,35.6762,139.6503,1/21/2020,1
+,South Korea,37.5665,126.978,1/21/2020,
+Taiwan,Taiwan,23.6978,120.9605,1/21/2020,1
+"Seattle, WA",US,47.7511,-120.74,1/21/2020,1
+"Chicago, IL",US,40.6331,-89.3985,1/21/2020,
+"Tempe, AZ",US,34.0489,-111.094,1/21/2020,
+Macau,Macau,22.1987,113.5439,1/21/2020,
+Hong Kong,Hong Kong,22.3193,114.1694,1/21/2020,
+,Singapore,1.3521,103.8198,1/21/2020,
+,Vietnam,21.0278,105.8342,1/21/2020,
+,France,46.2276,2.2137,1/21/2020,
+,Nepal,28.3949,84.124,1/21/2020,
+,Malaysia,4.2105,101.9758,1/21/2020,
+"Toronto, ON",Canada,43.6532,-79.3832,1/21/2020,
+British Columbia,Canada,49.2827,-123.121,1/21/2020,
+"Orange, CA",US,33.7879,-117.8531,1/21/2020,
+"Los Angeles, CA",US,34.0522,-118.2437,1/21/2020,
+New South Wales,Australia,-33.8688,151.2093,1/21/2020,
+Victoria,Australia,-37.8136,144.9631,1/21/2020,
+Queensland,Australia,-27.4698,153.0251,1/21/2020,
+,Cambodia,12.5657,104.991,1/21/2020,
+,Sri Lanka,7.8731,80.7718,1/21/2020,
+,Germany,51.1657,10.4515,1/21/2020,
+,Finland,61.9241,25.7482,1/21/2020,
+,United Arab Emirates,23.4241,53.8478,1/21/2020,
+,Philippines,12.8797,121.774,1/21/2020,
+,India,20.5937,78.9629,1/21/2020,
+"London, ON",Canada,42.9849,-81.2453,1/21/2020,
+,Italy,41.8719,12.5674,1/21/2020,
+,UK,55.3781,-3.436,1/21/2020,
+,Sweden,60.1282,18.6435,1/21/2020,
+"Santa Clara, CA",US,37.3541,-121.9552,1/21/2020,
+,Spain,40.4637,-3.7492,1/21/2020,
+South Australia,Australia,-34.9285,138.6007,1/21/2020,
+"Boston, MA",US,42.3601,-71.0589,1/21/2020,
+"San Benito, CA",US,36.5761,-120.9876,1/21/2020,
+,Belgium,50.5039,4.4699,1/21/2020,
+"Madison, WI",US,43.0731,-89.4012,1/21/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,1/21/2020,
+"San Diego County, CA",US,32.7157,-117.1611,1/21/2020,
+"San Antonio, TX",US,29.4241,-98.4936,1/21/2020,
+Anhui,Mainland China,31.82571,117.2264,1/22/2020,1
+Beijing,Mainland China,40.18238,116.4142,1/22/2020,14
+Chongqing,Mainland China,30.05718,107.874,1/22/2020,6
+Fujian,Mainland China,26.07783,117.9895,1/22/2020,1
+Gansu,Mainland China,36.0611,103.8343,1/22/2020,
+Guangdong,Mainland China,23.33841,113.422,1/22/2020,26
+Guangxi,Mainland China,23.82908,108.7881,1/22/2020,2
+Guizhou,Mainland China,26.81536,106.8748,1/22/2020,1
+Hainan,Mainland China,19.19673,109.7455,1/22/2020,4
+Hebei,Mainland China,38.0428,114.5149,1/22/2020,1
+Heilongjiang,Mainland China,47.862,127.7622,1/22/2020,
+Henan,Mainland China,33.88202,113.614,1/22/2020,5
+Hubei,Mainland China,30.97564,112.2707,1/22/2020,444
+Hunan,Mainland China,27.61041,111.7088,1/22/2020,4
+Inner Mongolia,Mainland China,44.09448,113.9456,1/22/2020,
+Jiangsu,Mainland China,32.97027,119.464,1/22/2020,1
+Jiangxi,Mainland China,27.61401,115.7221,1/22/2020,2
+Jilin,Mainland China,43.66657,126.1917,1/22/2020,
+Liaoning,Mainland China,41.29284,122.6086,1/22/2020,2
+Ningxia,Mainland China,37.26923,106.1655,1/22/2020,1
+Qinghai,Mainland China,35.65945,96.02564,1/22/2020,
+Shaanxi,Mainland China,35.19165,108.8701,1/22/2020,
+Shandong,Mainland China,36.34377,118.1529,1/22/2020,2
+Shanghai,Mainland China,31.20327,121.4554,1/22/2020,9
+Shanxi,Mainland China,37.57769,112.2922,1/22/2020,1
+Sichuan,Mainland China,30.61714,102.7103,1/22/2020,5
+Tianjin,Mainland China,39.29362,117.333,1/22/2020,4
+Tibet,Mainland China,30.1534,88.7879,1/22/2020,
+Xinjiang,Mainland China,41.11981,85.17822,1/22/2020,
+Yunnan,Mainland China,24.97411,101.4868,1/22/2020,1
+Zhejiang,Mainland China,29.18251,120.0985,1/22/2020,10
+,Thailand,13.7563,100.5018,1/22/2020,2
+,Japan,35.6762,139.6503,1/22/2020,2
+,South Korea,37.5665,126.978,1/22/2020,1
+Taiwan,Taiwan,23.6978,120.9605,1/22/2020,1
+"Seattle, WA",US,47.7511,-120.74,1/22/2020,1
+"Chicago, IL",US,40.6331,-89.3985,1/22/2020,
+"Tempe, AZ",US,34.0489,-111.094,1/22/2020,
+Macau,Macau,22.1987,113.5439,1/22/2020,1
+Hong Kong,Hong Kong,22.3193,114.1694,1/22/2020,
+,Singapore,1.3521,103.8198,1/22/2020,
+,Vietnam,21.0278,105.8342,1/22/2020,
+,France,46.2276,2.2137,1/22/2020,
+,Nepal,28.3949,84.124,1/22/2020,
+,Malaysia,4.2105,101.9758,1/22/2020,
+"Toronto, ON",Canada,43.6532,-79.3832,1/22/2020,
+British Columbia,Canada,49.2827,-123.121,1/22/2020,
+"Orange, CA",US,33.7879,-117.8531,1/22/2020,
+"Los Angeles, CA",US,34.0522,-118.2437,1/22/2020,
+New South Wales,Australia,-33.8688,151.2093,1/22/2020,
+Victoria,Australia,-37.8136,144.9631,1/22/2020,
+Queensland,Australia,-27.4698,153.0251,1/22/2020,
+,Cambodia,12.5657,104.991,1/22/2020,
+,Sri Lanka,7.8731,80.7718,1/22/2020,
+,Germany,51.1657,10.4515,1/22/2020,
+,Finland,61.9241,25.7482,1/22/2020,
+,United Arab Emirates,23.4241,53.8478,1/22/2020,
+,Philippines,12.8797,121.774,1/22/2020,
+,India,20.5937,78.9629,1/22/2020,
+"London, ON",Canada,42.9849,-81.2453,1/22/2020,
+,Italy,41.8719,12.5674,1/22/2020,
+,UK,55.3781,-3.436,1/22/2020,
+,Sweden,60.1282,18.6435,1/22/2020,
+"Santa Clara, CA",US,37.3541,-121.9552,1/22/2020,
+,Spain,40.4637,-3.7492,1/22/2020,
+South Australia,Australia,-34.9285,138.6007,1/22/2020,
+"Boston, MA",US,42.3601,-71.0589,1/22/2020,
+"San Benito, CA",US,36.5761,-120.9876,1/22/2020,
+,Belgium,50.5039,4.4699,1/22/2020,
+"Madison, WI",US,43.0731,-89.4012,1/22/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,1/22/2020,
+"San Diego County, CA",US,32.7157,-117.1611,1/22/2020,
+"San Antonio, TX",US,29.4241,-98.4936,1/22/2020,
+Anhui,Mainland China,31.82571,117.2264,1/23/2020,9
+Beijing,Mainland China,40.18238,116.4142,1/23/2020,22
+Chongqing,Mainland China,30.05718,107.874,1/23/2020,9
+Fujian,Mainland China,26.07783,117.9895,1/23/2020,5
+Gansu,Mainland China,36.0611,103.8343,1/23/2020,2
+Guangdong,Mainland China,23.33841,113.422,1/23/2020,32
+Guangxi,Mainland China,23.82908,108.7881,1/23/2020,5
+Guizhou,Mainland China,26.81536,106.8748,1/23/2020,3
+Hainan,Mainland China,19.19673,109.7455,1/23/2020,5
+Hebei,Mainland China,38.0428,114.5149,1/23/2020,1
+Heilongjiang,Mainland China,47.862,127.7622,1/23/2020,2
+Henan,Mainland China,33.88202,113.614,1/23/2020,5
+Hubei,Mainland China,30.97564,112.2707,1/23/2020,444
+Hunan,Mainland China,27.61041,111.7088,1/23/2020,9
+Inner Mongolia,Mainland China,44.09448,113.9456,1/23/2020,
+Jiangsu,Mainland China,32.97027,119.464,1/23/2020,5
+Jiangxi,Mainland China,27.61401,115.7221,1/23/2020,7
+Jilin,Mainland China,43.66657,126.1917,1/23/2020,1
+Liaoning,Mainland China,41.29284,122.6086,1/23/2020,3
+Ningxia,Mainland China,37.26923,106.1655,1/23/2020,1
+Qinghai,Mainland China,35.65945,96.02564,1/23/2020,
+Shaanxi,Mainland China,35.19165,108.8701,1/23/2020,3
+Shandong,Mainland China,36.34377,118.1529,1/23/2020,6
+Shanghai,Mainland China,31.20327,121.4554,1/23/2020,16
+Shanxi,Mainland China,37.57769,112.2922,1/23/2020,1
+Sichuan,Mainland China,30.61714,102.7103,1/23/2020,8
+Tianjin,Mainland China,39.29362,117.333,1/23/2020,4
+Tibet,Mainland China,30.1534,88.7879,1/23/2020,
+Xinjiang,Mainland China,41.11981,85.17822,1/23/2020,2
+Yunnan,Mainland China,24.97411,101.4868,1/23/2020,2
+Zhejiang,Mainland China,29.18251,120.0985,1/23/2020,27
+,Thailand,13.7563,100.5018,1/23/2020,3
+,Japan,35.6762,139.6503,1/23/2020,2
+,South Korea,37.5665,126.978,1/23/2020,1
+Taiwan,Taiwan,23.6978,120.9605,1/23/2020,1
+"Seattle, WA",US,47.7511,-120.74,1/23/2020,1
+"Chicago, IL",US,40.6331,-89.3985,1/23/2020,
+"Tempe, AZ",US,34.0489,-111.094,1/23/2020,
+Macau,Macau,22.1987,113.5439,1/23/2020,2
+Hong Kong,Hong Kong,22.3193,114.1694,1/23/2020,2
+,Singapore,1.3521,103.8198,1/23/2020,1
+,Vietnam,21.0278,105.8342,1/23/2020,2
+,France,46.2276,2.2137,1/23/2020,
+,Nepal,28.3949,84.124,1/23/2020,
+,Malaysia,4.2105,101.9758,1/23/2020,
+"Toronto, ON",Canada,43.6532,-79.3832,1/23/2020,
+British Columbia,Canada,49.2827,-123.121,1/23/2020,
+"Orange, CA",US,33.7879,-117.8531,1/23/2020,
+"Los Angeles, CA",US,34.0522,-118.2437,1/23/2020,
+New South Wales,Australia,-33.8688,151.2093,1/23/2020,
+Victoria,Australia,-37.8136,144.9631,1/23/2020,
+Queensland,Australia,-27.4698,153.0251,1/23/2020,
+,Cambodia,12.5657,104.991,1/23/2020,
+,Sri Lanka,7.8731,80.7718,1/23/2020,
+,Germany,51.1657,10.4515,1/23/2020,
+,Finland,61.9241,25.7482,1/23/2020,
+,United Arab Emirates,23.4241,53.8478,1/23/2020,
+,Philippines,12.8797,121.774,1/23/2020,
+,India,20.5937,78.9629,1/23/2020,
+"London, ON",Canada,42.9849,-81.2453,1/23/2020,
+,Italy,41.8719,12.5674,1/23/2020,
+,UK,55.3781,-3.436,1/23/2020,
+,Sweden,60.1282,18.6435,1/23/2020,
+"Santa Clara, CA",US,37.3541,-121.9552,1/23/2020,
+,Spain,40.4637,-3.7492,1/23/2020,
+South Australia,Australia,-34.9285,138.6007,1/23/2020,
+"Boston, MA",US,42.3601,-71.0589,1/23/2020,
+"San Benito, CA",US,36.5761,-120.9876,1/23/2020,
+,Belgium,50.5039,4.4699,1/23/2020,
+"Madison, WI",US,43.0731,-89.4012,1/23/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,1/23/2020,
+"San Diego County, CA",US,32.7157,-117.1611,1/23/2020,
+"San Antonio, TX",US,29.4241,-98.4936,1/23/2020,
+Anhui,Mainland China,31.82571,117.2264,1/24/2020,15
+Beijing,Mainland China,40.18238,116.4142,1/24/2020,36
+Chongqing,Mainland China,30.05718,107.874,1/24/2020,27
+Fujian,Mainland China,26.07783,117.9895,1/24/2020,10
+Gansu,Mainland China,36.0611,103.8343,1/24/2020,2
+Guangdong,Mainland China,23.33841,113.422,1/24/2020,53
+Guangxi,Mainland China,23.82908,108.7881,1/24/2020,23
+Guizhou,Mainland China,26.81536,106.8748,1/24/2020,3
+Hainan,Mainland China,19.19673,109.7455,1/24/2020,8
+Hebei,Mainland China,38.0428,114.5149,1/24/2020,2
+Heilongjiang,Mainland China,47.862,127.7622,1/24/2020,4
+Henan,Mainland China,33.88202,113.614,1/24/2020,9
+Hubei,Mainland China,30.97564,112.2707,1/24/2020,549
+Hunan,Mainland China,27.61041,111.7088,1/24/2020,24
+Inner Mongolia,Mainland China,44.09448,113.9456,1/24/2020,1
+Jiangsu,Mainland China,32.97027,119.464,1/24/2020,9
+Jiangxi,Mainland China,27.61401,115.7221,1/24/2020,18
+Jilin,Mainland China,43.66657,126.1917,1/24/2020,3
+Liaoning,Mainland China,41.29284,122.6086,1/24/2020,4
+Ningxia,Mainland China,37.26923,106.1655,1/24/2020,2
+Qinghai,Mainland China,35.65945,96.02564,1/24/2020,
+Shaanxi,Mainland China,35.19165,108.8701,1/24/2020,5
+Shandong,Mainland China,36.34377,118.1529,1/24/2020,15
+Shanghai,Mainland China,31.20327,121.4554,1/24/2020,20
+Shanxi,Mainland China,37.57769,112.2922,1/24/2020,1
+Sichuan,Mainland China,30.61714,102.7103,1/24/2020,15
+Tianjin,Mainland China,39.29362,117.333,1/24/2020,8
+Tibet,Mainland China,30.1534,88.7879,1/24/2020,
+Xinjiang,Mainland China,41.11981,85.17822,1/24/2020,2
+Yunnan,Mainland China,24.97411,101.4868,1/24/2020,5
+Zhejiang,Mainland China,29.18251,120.0985,1/24/2020,43
+,Thailand,13.7563,100.5018,1/24/2020,5
+,Japan,35.6762,139.6503,1/24/2020,2
+,South Korea,37.5665,126.978,1/24/2020,2
+Taiwan,Taiwan,23.6978,120.9605,1/24/2020,3
+"Seattle, WA",US,47.7511,-120.74,1/24/2020,1
+"Chicago, IL",US,40.6331,-89.3985,1/24/2020,1
+"Tempe, AZ",US,34.0489,-111.094,1/24/2020,
+Macau,Macau,22.1987,113.5439,1/24/2020,2
+Hong Kong,Hong Kong,22.3193,114.1694,1/24/2020,2
+,Singapore,1.3521,103.8198,1/24/2020,3
+,Vietnam,21.0278,105.8342,1/24/2020,2
+,France,46.2276,2.2137,1/24/2020,2
+,Nepal,28.3949,84.124,1/24/2020,
+,Malaysia,4.2105,101.9758,1/24/2020,
+"Toronto, ON",Canada,43.6532,-79.3832,1/24/2020,
+British Columbia,Canada,49.2827,-123.121,1/24/2020,
+"Orange, CA",US,33.7879,-117.8531,1/24/2020,
+"Los Angeles, CA",US,34.0522,-118.2437,1/24/2020,
+New South Wales,Australia,-33.8688,151.2093,1/24/2020,
+Victoria,Australia,-37.8136,144.9631,1/24/2020,
+Queensland,Australia,-27.4698,153.0251,1/24/2020,
+,Cambodia,12.5657,104.991,1/24/2020,
+,Sri Lanka,7.8731,80.7718,1/24/2020,
+,Germany,51.1657,10.4515,1/24/2020,
+,Finland,61.9241,25.7482,1/24/2020,
+,United Arab Emirates,23.4241,53.8478,1/24/2020,
+,Philippines,12.8797,121.774,1/24/2020,
+,India,20.5937,78.9629,1/24/2020,
+"London, ON",Canada,42.9849,-81.2453,1/24/2020,
+,Italy,41.8719,12.5674,1/24/2020,
+,UK,55.3781,-3.436,1/24/2020,
+,Russia,61.524,105.3188,1/24/2020,
+,Sweden,60.1282,18.6435,1/24/2020,
+"Santa Clara, CA",US,37.3541,-121.9552,1/24/2020,
+,Spain,40.4637,-3.7492,1/24/2020,
+South Australia,Australia,-34.9285,138.6007,1/24/2020,
+"Boston, MA",US,42.3601,-71.0589,1/24/2020,
+"San Benito, CA",US,36.5761,-120.9876,1/24/2020,
+,Belgium,50.5039,4.4699,1/24/2020,
+"Madison, WI",US,43.0731,-89.4012,1/24/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,1/24/2020,
+"San Diego County, CA",US,32.7157,-117.1611,1/24/2020,
+"San Antonio, TX",US,29.4241,-98.4936,1/24/2020,
+Anhui,Mainland China,31.82571,117.2264,1/25/2020,60
+Beijing,Mainland China,40.18238,116.4142,1/25/2020,51
+Chongqing,Mainland China,30.05718,107.874,1/25/2020,75
+Fujian,Mainland China,26.07783,117.9895,1/25/2020,18
+Gansu,Mainland China,36.0611,103.8343,1/25/2020,7
+Guangdong,Mainland China,23.33841,113.422,1/25/2020,98
+Guangxi,Mainland China,23.82908,108.7881,1/25/2020,33
+Guizhou,Mainland China,26.81536,106.8748,1/25/2020,5
+Hainan,Mainland China,19.19673,109.7455,1/25/2020,19
+Hebei,Mainland China,38.0428,114.5149,1/25/2020,13
+Heilongjiang,Mainland China,47.862,127.7622,1/25/2020,15
+Henan,Mainland China,33.88202,113.614,1/25/2020,83
+Hubei,Mainland China,30.97564,112.2707,1/25/2020,1052
+Hunan,Mainland China,27.61041,111.7088,1/25/2020,69
+Inner Mongolia,Mainland China,44.09448,113.9456,1/25/2020,7
+Jiangsu,Mainland China,32.97027,119.464,1/25/2020,31
+Jiangxi,Mainland China,27.61401,115.7221,1/25/2020,36
+Jilin,Mainland China,43.66657,126.1917,1/25/2020,4
+Liaoning,Mainland China,41.29284,122.6086,1/25/2020,19
+Ningxia,Mainland China,37.26923,106.1655,1/25/2020,4
+Qinghai,Mainland China,35.65945,96.02564,1/25/2020,1
+Shaanxi,Mainland China,35.19165,108.8701,1/25/2020,15
+Shandong,Mainland China,36.34377,118.1529,1/25/2020,39
+Shanghai,Mainland China,31.20327,121.4554,1/25/2020,40
+Shanxi,Mainland China,37.57769,112.2922,1/25/2020,9
+Sichuan,Mainland China,30.61714,102.7103,1/25/2020,44
+Tianjin,Mainland China,39.29362,117.333,1/25/2020,13
+Tibet,Mainland China,30.1534,88.7879,1/25/2020,
+Xinjiang,Mainland China,41.11981,85.17822,1/25/2020,4
+Yunnan,Mainland China,24.97411,101.4868,1/25/2020,11
+Zhejiang,Mainland China,29.18251,120.0985,1/25/2020,104
+,Thailand,13.7563,100.5018,1/25/2020,7
+,Japan,35.6762,139.6503,1/25/2020,2
+,South Korea,37.5665,126.978,1/25/2020,2
+Taiwan,Taiwan,23.6978,120.9605,1/25/2020,3
+"Seattle, WA",US,47.7511,-120.74,1/25/2020,1
+"Chicago, IL",US,40.6331,-89.3985,1/25/2020,1
+"Tempe, AZ",US,34.0489,-111.094,1/25/2020,
+Macau,Macau,22.1987,113.5439,1/25/2020,2
+Hong Kong,Hong Kong,22.3193,114.1694,1/25/2020,5
+,Singapore,1.3521,103.8198,1/25/2020,3
+,Vietnam,21.0278,105.8342,1/25/2020,2
+,France,46.2276,2.2137,1/25/2020,3
+,Nepal,28.3949,84.124,1/25/2020,1
+,Malaysia,4.2105,101.9758,1/25/2020,3
+"Toronto, ON",Canada,43.6532,-79.3832,1/25/2020,
+British Columbia,Canada,49.2827,-123.121,1/25/2020,
+"Orange, CA",US,33.7879,-117.8531,1/25/2020,
+"Los Angeles, CA",US,34.0522,-118.2437,1/25/2020,
+New South Wales,Australia,-33.8688,151.2093,1/25/2020,
+Victoria,Australia,-37.8136,144.9631,1/25/2020,
+Queensland,Australia,-27.4698,153.0251,1/25/2020,
+,Cambodia,12.5657,104.991,1/25/2020,
+,Sri Lanka,7.8731,80.7718,1/25/2020,
+,Germany,51.1657,10.4515,1/25/2020,
+,Finland,61.9241,25.7482,1/25/2020,
+,United Arab Emirates,23.4241,53.8478,1/25/2020,
+,Philippines,12.8797,121.774,1/25/2020,
+,India,20.5937,78.9629,1/25/2020,
+"London, ON",Canada,42.9849,-81.2453,1/25/2020,
+,Italy,41.8719,12.5674,1/25/2020,
+,UK,55.3781,-3.436,1/25/2020,
+,Russia,61.524,105.3188,1/25/2020,
+,Sweden,60.1282,18.6435,1/25/2020,
+"Santa Clara, CA",US,37.3541,-121.9552,1/25/2020,
+,Spain,40.4637,-3.7492,1/25/2020,
+South Australia,Australia,-34.9285,138.6007,1/25/2020,
+"Boston, MA",US,42.3601,-71.0589,1/25/2020,
+"San Benito, CA",US,36.5761,-120.9876,1/25/2020,
+,Belgium,50.5039,4.4699,1/25/2020,
+"Madison, WI",US,43.0731,-89.4012,1/25/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,1/25/2020,
+"San Diego County, CA",US,32.7157,-117.1611,1/25/2020,
+"San Antonio, TX",US,29.4241,-98.4936,1/25/2020,
+Anhui,Mainland China,31.82571,117.2264,1/26/2020,70
+Beijing,Mainland China,40.18238,116.4142,1/26/2020,68
+Chongqing,Mainland China,30.05718,107.874,1/26/2020,110
+Fujian,Mainland China,26.07783,117.9895,1/26/2020,35
+Gansu,Mainland China,36.0611,103.8343,1/26/2020,14
+Guangdong,Mainland China,23.33841,113.422,1/26/2020,146
+Guangxi,Mainland China,23.82908,108.7881,1/26/2020,46
+Guizhou,Mainland China,26.81536,106.8748,1/26/2020,7
+Hainan,Mainland China,19.19673,109.7455,1/26/2020,22
+Hebei,Mainland China,38.0428,114.5149,1/26/2020,18
+Heilongjiang,Mainland China,47.862,127.7622,1/26/2020,21
+Henan,Mainland China,33.88202,113.614,1/26/2020,128
+Hubei,Mainland China,30.97564,112.2707,1/26/2020,1423
+Hunan,Mainland China,27.61041,111.7088,1/26/2020,100
+Inner Mongolia,Mainland China,44.09448,113.9456,1/26/2020,11
+Jiangsu,Mainland China,32.97027,119.464,1/26/2020,47
+Jiangxi,Mainland China,27.61401,115.7221,1/26/2020,48
+Jilin,Mainland China,43.66657,126.1917,1/26/2020,6
+Liaoning,Mainland China,41.29284,122.6086,1/26/2020,23
+Ningxia,Mainland China,37.26923,106.1655,1/26/2020,4
+Qinghai,Mainland China,35.65945,96.02564,1/26/2020,4
+Shaanxi,Mainland China,35.19165,108.8701,1/26/2020,22
+Shandong,Mainland China,36.34377,118.1529,1/26/2020,63
+Shanghai,Mainland China,31.20327,121.4554,1/26/2020,53
+Shanxi,Mainland China,37.57769,112.2922,1/26/2020,13
+Sichuan,Mainland China,30.61714,102.7103,1/26/2020,69
+Tianjin,Mainland China,39.29362,117.333,1/26/2020,14
+Tibet,Mainland China,30.1534,88.7879,1/26/2020,
+Xinjiang,Mainland China,41.11981,85.17822,1/26/2020,5
+Yunnan,Mainland China,24.97411,101.4868,1/26/2020,19
+Zhejiang,Mainland China,29.18251,120.0985,1/26/2020,128
+,Thailand,13.7563,100.5018,1/26/2020,8
+,Japan,35.6762,139.6503,1/26/2020,4
+,South Korea,37.5665,126.978,1/26/2020,3
+Taiwan,Taiwan,23.6978,120.9605,1/26/2020,4
+"Seattle, WA",US,47.7511,-120.74,1/26/2020,1
+"Chicago, IL",US,40.6331,-89.3985,1/26/2020,1
+"Tempe, AZ",US,34.0489,-111.094,1/26/2020,1
+Macau,Macau,22.1987,113.5439,1/26/2020,6
+Hong Kong,Hong Kong,22.3193,114.1694,1/26/2020,8
+,Singapore,1.3521,103.8198,1/26/2020,4
+,Vietnam,21.0278,105.8342,1/26/2020,2
+,France,46.2276,2.2137,1/26/2020,3
+,Nepal,28.3949,84.124,1/26/2020,1
+,Malaysia,4.2105,101.9758,1/26/2020,4
+"Toronto, ON",Canada,43.6532,-79.3832,1/26/2020,1
+British Columbia,Canada,49.2827,-123.121,1/26/2020,
+"Orange, CA",US,33.7879,-117.8531,1/26/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,1/26/2020,1
+New South Wales,Australia,-33.8688,151.2093,1/26/2020,3
+Victoria,Australia,-37.8136,144.9631,1/26/2020,1
+Queensland,Australia,-27.4698,153.0251,1/26/2020,
+,Cambodia,12.5657,104.991,1/26/2020,
+,Sri Lanka,7.8731,80.7718,1/26/2020,
+,Germany,51.1657,10.4515,1/26/2020,
+,Finland,61.9241,25.7482,1/26/2020,
+,United Arab Emirates,23.4241,53.8478,1/26/2020,
+,Philippines,12.8797,121.774,1/26/2020,
+,India,20.5937,78.9629,1/26/2020,
+"London, ON",Canada,42.9849,-81.2453,1/26/2020,
+,Italy,41.8719,12.5674,1/26/2020,
+,UK,55.3781,-3.436,1/26/2020,
+,Russia,61.524,105.3188,1/26/2020,
+,Sweden,60.1282,18.6435,1/26/2020,
+"Santa Clara, CA",US,37.3541,-121.9552,1/26/2020,
+,Spain,40.4637,-3.7492,1/26/2020,
+South Australia,Australia,-34.9285,138.6007,1/26/2020,
+"Boston, MA",US,42.3601,-71.0589,1/26/2020,
+"San Benito, CA",US,36.5761,-120.9876,1/26/2020,
+,Belgium,50.5039,4.4699,1/26/2020,
+"Madison, WI",US,43.0731,-89.4012,1/26/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,1/26/2020,
+"San Diego County, CA",US,32.7157,-117.1611,1/26/2020,
+"San Antonio, TX",US,29.4241,-98.4936,1/26/2020,
+Anhui,Mainland China,31.82571,117.2264,1/27/2020,106
+Beijing,Mainland China,40.18238,116.4142,1/27/2020,80
+Chongqing,Mainland China,30.05718,107.874,1/27/2020,132
+Fujian,Mainland China,26.07783,117.9895,1/27/2020,59
+Gansu,Mainland China,36.0611,103.8343,1/27/2020,19
+Guangdong,Mainland China,23.33841,113.422,1/27/2020,151
+Guangxi,Mainland China,23.82908,108.7881,1/27/2020,51
+Guizhou,Mainland China,26.81536,106.8748,1/27/2020,9
+Hainan,Mainland China,19.19673,109.7455,1/27/2020,33
+Hebei,Mainland China,38.0428,114.5149,1/27/2020,33
+Heilongjiang,Mainland China,47.862,127.7622,1/27/2020,30
+Henan,Mainland China,33.88202,113.614,1/27/2020,168
+Hubei,Mainland China,30.97564,112.2707,1/27/2020,2714
+Hunan,Mainland China,27.61041,111.7088,1/27/2020,100
+Inner Mongolia,Mainland China,44.09448,113.9456,1/27/2020,11
+Jiangsu,Mainland China,32.97027,119.464,1/27/2020,70
+Jiangxi,Mainland China,27.61401,115.7221,1/27/2020,72
+Jilin,Mainland China,43.66657,126.1917,1/27/2020,6
+Liaoning,Mainland China,41.29284,122.6086,1/27/2020,27
+Ningxia,Mainland China,37.26923,106.1655,1/27/2020,7
+Qinghai,Mainland China,35.65945,96.02564,1/27/2020,6
+Shaanxi,Mainland China,35.19165,108.8701,1/27/2020,35
+Shandong,Mainland China,36.34377,118.1529,1/27/2020,87
+Shanghai,Mainland China,31.20327,121.4554,1/27/2020,66
+Shanxi,Mainland China,37.57769,112.2922,1/27/2020,20
+Sichuan,Mainland China,30.61714,102.7103,1/27/2020,90
+Tianjin,Mainland China,39.29362,117.333,1/27/2020,23
+Tibet,Mainland China,30.1534,88.7879,1/27/2020,
+Xinjiang,Mainland China,41.11981,85.17822,1/27/2020,5
+Yunnan,Mainland China,24.97411,101.4868,1/27/2020,26
+Zhejiang,Mainland China,29.18251,120.0985,1/27/2020,173
+,Thailand,13.7563,100.5018,1/27/2020,8
+,Japan,35.6762,139.6503,1/27/2020,4
+,South Korea,37.5665,126.978,1/27/2020,4
+Taiwan,Taiwan,23.6978,120.9605,1/27/2020,5
+"Seattle, WA",US,47.7511,-120.74,1/27/2020,1
+"Chicago, IL",US,40.6331,-89.3985,1/27/2020,1
+"Tempe, AZ",US,34.0489,-111.094,1/27/2020,1
+Macau,Macau,22.1987,113.5439,1/27/2020,6
+Hong Kong,Hong Kong,22.3193,114.1694,1/27/2020,8
+,Singapore,1.3521,103.8198,1/27/2020,5
+,Vietnam,21.0278,105.8342,1/27/2020,2
+,France,46.2276,2.2137,1/27/2020,3
+,Nepal,28.3949,84.124,1/27/2020,1
+,Malaysia,4.2105,101.9758,1/27/2020,4
+"Toronto, ON",Canada,43.6532,-79.3832,1/27/2020,1
+British Columbia,Canada,49.2827,-123.121,1/27/2020,
+"Orange, CA",US,33.7879,-117.8531,1/27/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,1/27/2020,1
+New South Wales,Australia,-33.8688,151.2093,1/27/2020,4
+Victoria,Australia,-37.8136,144.9631,1/27/2020,1
+Queensland,Australia,-27.4698,153.0251,1/27/2020,
+,Cambodia,12.5657,104.991,1/27/2020,1
+,Sri Lanka,7.8731,80.7718,1/27/2020,1
+,Germany,51.1657,10.4515,1/27/2020,1
+,Finland,61.9241,25.7482,1/27/2020,
+,United Arab Emirates,23.4241,53.8478,1/27/2020,
+,Philippines,12.8797,121.774,1/27/2020,
+,India,20.5937,78.9629,1/27/2020,
+"London, ON",Canada,42.9849,-81.2453,1/27/2020,
+,Italy,41.8719,12.5674,1/27/2020,
+,UK,55.3781,-3.436,1/27/2020,
+,Russia,61.524,105.3188,1/27/2020,
+,Sweden,60.1282,18.6435,1/27/2020,
+"Santa Clara, CA",US,37.3541,-121.9552,1/27/2020,
+,Spain,40.4637,-3.7492,1/27/2020,
+South Australia,Australia,-34.9285,138.6007,1/27/2020,
+"Boston, MA",US,42.3601,-71.0589,1/27/2020,
+"San Benito, CA",US,36.5761,-120.9876,1/27/2020,
+,Belgium,50.5039,4.4699,1/27/2020,
+"Madison, WI",US,43.0731,-89.4012,1/27/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,1/27/2020,
+"San Diego County, CA",US,32.7157,-117.1611,1/27/2020,
+"San Antonio, TX",US,29.4241,-98.4936,1/27/2020,
+Anhui,Mainland China,31.82571,117.2264,1/28/2020,152
+Beijing,Mainland China,40.18238,116.4142,1/28/2020,91
+Chongqing,Mainland China,30.05718,107.874,1/28/2020,147
+Fujian,Mainland China,26.07783,117.9895,1/28/2020,82
+Gansu,Mainland China,36.0611,103.8343,1/28/2020,24
+Guangdong,Mainland China,23.33841,113.422,1/28/2020,241
+Guangxi,Mainland China,23.82908,108.7881,1/28/2020,58
+Guizhou,Mainland China,26.81536,106.8748,1/28/2020,9
+Hainan,Mainland China,19.19673,109.7455,1/28/2020,43
+Hebei,Mainland China,38.0428,114.5149,1/28/2020,48
+Heilongjiang,Mainland China,47.862,127.7622,1/28/2020,37
+Henan,Mainland China,33.88202,113.614,1/28/2020,206
+Hubei,Mainland China,30.97564,112.2707,1/28/2020,3554
+Hunan,Mainland China,27.61041,111.7088,1/28/2020,221
+Inner Mongolia,Mainland China,44.09448,113.9456,1/28/2020,16
+Jiangsu,Mainland China,32.97027,119.464,1/28/2020,99
+Jiangxi,Mainland China,27.61401,115.7221,1/28/2020,109
+Jilin,Mainland China,43.66657,126.1917,1/28/2020,9
+Liaoning,Mainland China,41.29284,122.6086,1/28/2020,36
+Ningxia,Mainland China,37.26923,106.1655,1/28/2020,12
+Qinghai,Mainland China,35.65945,96.02564,1/28/2020,6
+Shaanxi,Mainland China,35.19165,108.8701,1/28/2020,56
+Shandong,Mainland China,36.34377,118.1529,1/28/2020,121
+Shanghai,Mainland China,31.20327,121.4554,1/28/2020,80
+Shanxi,Mainland China,37.57769,112.2922,1/28/2020,27
+Sichuan,Mainland China,30.61714,102.7103,1/28/2020,108
+Tianjin,Mainland China,39.29362,117.333,1/28/2020,25
+Tibet,Mainland China,30.1534,88.7879,1/28/2020,
+Xinjiang,Mainland China,41.11981,85.17822,1/28/2020,13
+Yunnan,Mainland China,24.97411,101.4868,1/28/2020,44
+Zhejiang,Mainland China,29.18251,120.0985,1/28/2020,296
+,Thailand,13.7563,100.5018,1/28/2020,14
+,Japan,35.6762,139.6503,1/28/2020,7
+,South Korea,37.5665,126.978,1/28/2020,4
+Taiwan,Taiwan,23.6978,120.9605,1/28/2020,8
+"Seattle, WA",US,47.7511,-120.74,1/28/2020,1
+"Chicago, IL",US,40.6331,-89.3985,1/28/2020,1
+"Tempe, AZ",US,34.0489,-111.094,1/28/2020,1
+Macau,Macau,22.1987,113.5439,1/28/2020,7
+Hong Kong,Hong Kong,22.3193,114.1694,1/28/2020,8
+,Singapore,1.3521,103.8198,1/28/2020,7
+,Vietnam,21.0278,105.8342,1/28/2020,2
+,France,46.2276,2.2137,1/28/2020,4
+,Nepal,28.3949,84.124,1/28/2020,1
+,Malaysia,4.2105,101.9758,1/28/2020,7
+"Toronto, ON",Canada,43.6532,-79.3832,1/28/2020,1
+British Columbia,Canada,49.2827,-123.121,1/28/2020,1
+"Orange, CA",US,33.7879,-117.8531,1/28/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,1/28/2020,1
+New South Wales,Australia,-33.8688,151.2093,1/28/2020,4
+Victoria,Australia,-37.8136,144.9631,1/28/2020,1
+Queensland,Australia,-27.4698,153.0251,1/28/2020,
+,Cambodia,12.5657,104.991,1/28/2020,1
+,Sri Lanka,7.8731,80.7718,1/28/2020,1
+,Germany,51.1657,10.4515,1/28/2020,4
+,Finland,61.9241,25.7482,1/28/2020,
+,United Arab Emirates,23.4241,53.8478,1/28/2020,
+,Philippines,12.8797,121.774,1/28/2020,
+,India,20.5937,78.9629,1/28/2020,
+"London, ON",Canada,42.9849,-81.2453,1/28/2020,
+,Italy,41.8719,12.5674,1/28/2020,
+,UK,55.3781,-3.436,1/28/2020,
+,Russia,61.524,105.3188,1/28/2020,
+,Sweden,60.1282,18.6435,1/28/2020,
+"Santa Clara, CA",US,37.3541,-121.9552,1/28/2020,
+,Spain,40.4637,-3.7492,1/28/2020,
+South Australia,Australia,-34.9285,138.6007,1/28/2020,
+"Boston, MA",US,42.3601,-71.0589,1/28/2020,
+"San Benito, CA",US,36.5761,-120.9876,1/28/2020,
+,Belgium,50.5039,4.4699,1/28/2020,
+"Madison, WI",US,43.0731,-89.4012,1/28/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,1/28/2020,
+"San Diego County, CA",US,32.7157,-117.1611,1/28/2020,
+"San Antonio, TX",US,29.4241,-98.4936,1/28/2020,
+Anhui,Mainland China,31.82571,117.2264,1/29/2020,200
+Beijing,Mainland China,40.18238,116.4142,1/29/2020,111
+Chongqing,Mainland China,30.05718,107.874,1/29/2020,165
+Fujian,Mainland China,26.07783,117.9895,1/29/2020,101
+Gansu,Mainland China,36.0611,103.8343,1/29/2020,26
+Guangdong,Mainland China,23.33841,113.422,1/29/2020,311
+Guangxi,Mainland China,23.82908,108.7881,1/29/2020,78
+Guizhou,Mainland China,26.81536,106.8748,1/29/2020,12
+Hainan,Mainland China,19.19673,109.7455,1/29/2020,43
+Hebei,Mainland China,38.0428,114.5149,1/29/2020,65
+Heilongjiang,Mainland China,47.862,127.7622,1/29/2020,43
+Henan,Mainland China,33.88202,113.614,1/29/2020,278
+Hubei,Mainland China,30.97564,112.2707,1/29/2020,4586
+Hunan,Mainland China,27.61041,111.7088,1/29/2020,277
+Inner Mongolia,Mainland China,44.09448,113.9456,1/29/2020,16
+Jiangsu,Mainland China,32.97027,119.464,1/29/2020,129
+Jiangxi,Mainland China,27.61401,115.7221,1/29/2020,162
+Jilin,Mainland China,43.66657,126.1917,1/29/2020,14
+Liaoning,Mainland China,41.29284,122.6086,1/29/2020,39
+Ningxia,Mainland China,37.26923,106.1655,1/29/2020,12
+Qinghai,Mainland China,35.65945,96.02564,1/29/2020,6
+Shaanxi,Mainland China,35.19165,108.8701,1/29/2020,56
+Shandong,Mainland China,36.34377,118.1529,1/29/2020,145
+Shanghai,Mainland China,31.20327,121.4554,1/29/2020,101
+Shanxi,Mainland China,37.57769,112.2922,1/29/2020,35
+Sichuan,Mainland China,30.61714,102.7103,1/29/2020,142
+Tianjin,Mainland China,39.29362,117.333,1/29/2020,27
+Tibet,Mainland China,30.1534,88.7879,1/29/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,1/29/2020,14
+Yunnan,Mainland China,24.97411,101.4868,1/29/2020,55
+Zhejiang,Mainland China,29.18251,120.0985,1/29/2020,428
+,Thailand,13.7563,100.5018,1/29/2020,14
+,Japan,35.6762,139.6503,1/29/2020,11
+,South Korea,37.5665,126.978,1/29/2020,4
+Taiwan,Taiwan,23.6978,120.9605,1/29/2020,8
+"Seattle, WA",US,47.7511,-120.74,1/29/2020,1
+"Chicago, IL",US,40.6331,-89.3985,1/29/2020,1
+"Tempe, AZ",US,34.0489,-111.094,1/29/2020,1
+Macau,Macau,22.1987,113.5439,1/29/2020,7
+Hong Kong,Hong Kong,22.3193,114.1694,1/29/2020,10
+,Singapore,1.3521,103.8198,1/29/2020,10
+,Vietnam,21.0278,105.8342,1/29/2020,2
+,France,46.2276,2.2137,1/29/2020,5
+,Nepal,28.3949,84.124,1/29/2020,1
+,Malaysia,4.2105,101.9758,1/29/2020,7
+"Toronto, ON",Canada,43.6532,-79.3832,1/29/2020,1
+British Columbia,Canada,49.2827,-123.121,1/29/2020,1
+"Orange, CA",US,33.7879,-117.8531,1/29/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,1/29/2020,1
+New South Wales,Australia,-33.8688,151.2093,1/29/2020,4
+Victoria,Australia,-37.8136,144.9631,1/29/2020,2
+Queensland,Australia,-27.4698,153.0251,1/29/2020,1
+,Cambodia,12.5657,104.991,1/29/2020,1
+,Sri Lanka,7.8731,80.7718,1/29/2020,1
+,Germany,51.1657,10.4515,1/29/2020,4
+,Finland,61.9241,25.7482,1/29/2020,1
+,Philippines,12.8797,121.774,1/29/2020,
+,India,20.5937,78.9629,1/29/2020,
+"London, ON",Canada,42.9849,-81.2453,1/29/2020,
+,Italy,41.8719,12.5674,1/29/2020,
+,UK,55.3781,-3.436,1/29/2020,
+,Russia,61.524,105.3188,1/29/2020,
+,Sweden,60.1282,18.6435,1/29/2020,
+"Santa Clara, CA",US,37.3541,-121.9552,1/29/2020,
+,Spain,40.4637,-3.7492,1/29/2020,
+South Australia,Australia,-34.9285,138.6007,1/29/2020,
+"Boston, MA",US,42.3601,-71.0589,1/29/2020,
+"San Benito, CA",US,36.5761,-120.9876,1/29/2020,
+,Belgium,50.5039,4.4699,1/29/2020,
+"Madison, WI",US,43.0731,-89.4012,1/29/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,1/29/2020,
+"San Diego County, CA",US,32.7157,-117.1611,1/29/2020,
+"San Antonio, TX",US,29.4241,-98.4936,1/29/2020,
+Anhui,Mainland China,31.82571,117.2264,1/30/2020,200
+Beijing,Mainland China,40.18238,116.4142,1/30/2020,114
+Chongqing,Mainland China,30.05718,107.874,1/30/2020,182
+Fujian,Mainland China,26.07783,117.9895,1/30/2020,101
+Gansu,Mainland China,36.0611,103.8343,1/30/2020,26
+Guangdong,Mainland China,23.33841,113.422,1/30/2020,354
+Guangxi,Mainland China,23.82908,108.7881,1/30/2020,78
+Guizhou,Mainland China,26.81536,106.8748,1/30/2020,12
+Hainan,Mainland China,19.19673,109.7455,1/30/2020,46
+Hebei,Mainland China,38.0428,114.5149,1/30/2020,65
+Heilongjiang,Mainland China,47.862,127.7622,1/30/2020,44
+Henan,Mainland China,33.88202,113.614,1/30/2020,278
+Hubei,Mainland China,30.97564,112.2707,1/30/2020,4903
+Hunan,Mainland China,27.61041,111.7088,1/30/2020,277
+Inner Mongolia,Mainland China,44.09448,113.9456,1/30/2020,19
+Jiangsu,Mainland China,32.97027,119.464,1/30/2020,129
+Jiangxi,Mainland China,27.61401,115.7221,1/30/2020,162
+Jilin,Mainland China,43.66657,126.1917,1/30/2020,14
+Liaoning,Mainland China,41.29284,122.6086,1/30/2020,41
+Ningxia,Mainland China,37.26923,106.1655,1/30/2020,17
+Qinghai,Mainland China,35.65945,96.02564,1/30/2020,8
+Shaanxi,Mainland China,35.19165,108.8701,1/30/2020,63
+Shandong,Mainland China,36.34377,118.1529,1/30/2020,158
+Shanghai,Mainland China,31.20327,121.4554,1/30/2020,112
+Shanxi,Mainland China,37.57769,112.2922,1/30/2020,35
+Sichuan,Mainland China,30.61714,102.7103,1/30/2020,142
+Tianjin,Mainland China,39.29362,117.333,1/30/2020,31
+Tibet,Mainland China,30.1534,88.7879,1/30/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,1/30/2020,14
+Yunnan,Mainland China,24.97411,101.4868,1/30/2020,70
+Zhejiang,Mainland China,29.18251,120.0985,1/30/2020,428
+,Thailand,13.7563,100.5018,1/30/2020,14
+,Japan,35.6762,139.6503,1/30/2020,11
+,South Korea,37.5665,126.978,1/30/2020,4
+Taiwan,Taiwan,23.6978,120.9605,1/30/2020,9
+"Seattle, WA",US,47.7511,-120.74,1/30/2020,1
+"Chicago, IL",US,40.6331,-89.3985,1/30/2020,1
+"Tempe, AZ",US,34.0489,-111.094,1/30/2020,1
+Macau,Macau,22.1987,113.5439,1/30/2020,7
+Hong Kong,Hong Kong,22.3193,114.1694,1/30/2020,10
+,Singapore,1.3521,103.8198,1/30/2020,10
+,Vietnam,21.0278,105.8342,1/30/2020,2
+,France,46.2276,2.2137,1/30/2020,5
+,Nepal,28.3949,84.124,1/30/2020,1
+,Malaysia,4.2105,101.9758,1/30/2020,8
+"Toronto, ON",Canada,43.6532,-79.3832,1/30/2020,1
+British Columbia,Canada,49.2827,-123.121,1/30/2020,1
+"Orange, CA",US,33.7879,-117.8531,1/30/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,1/30/2020,1
+New South Wales,Australia,-33.8688,151.2093,1/30/2020,4
+Victoria,Australia,-37.8136,144.9631,1/30/2020,3
+Queensland,Australia,-27.4698,153.0251,1/30/2020,2
+,Cambodia,12.5657,104.991,1/30/2020,1
+,Sri Lanka,7.8731,80.7718,1/30/2020,1
+,Germany,51.1657,10.4515,1/30/2020,4
+,Finland,61.9241,25.7482,1/30/2020,1
+,Philippines,12.8797,121.774,1/30/2020,1
+,India,20.5937,78.9629,1/30/2020,1
+"London, ON",Canada,42.9849,-81.2453,1/30/2020,
+,Italy,41.8719,12.5674,1/30/2020,
+,UK,55.3781,-3.436,1/30/2020,
+,Russia,61.524,105.3188,1/30/2020,
+,Sweden,60.1282,18.6435,1/30/2020,
+"Santa Clara, CA",US,37.3541,-121.9552,1/30/2020,
+,Spain,40.4637,-3.7492,1/30/2020,
+South Australia,Australia,-34.9285,138.6007,1/30/2020,
+"Boston, MA",US,42.3601,-71.0589,1/30/2020,
+"San Benito, CA",US,36.5761,-120.9876,1/30/2020,
+,Belgium,50.5039,4.4699,1/30/2020,
+"Madison, WI",US,43.0731,-89.4012,1/30/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,1/30/2020,
+"San Diego County, CA",US,32.7157,-117.1611,1/30/2020,
+"San Antonio, TX",US,29.4241,-98.4936,1/30/2020,
+Anhui,Mainland China,31.82571,117.2264,1/31/2020,237
+Beijing,Mainland China,40.18238,116.4142,1/31/2020,139
+Chongqing,Mainland China,30.05718,107.874,1/31/2020,211
+Fujian,Mainland China,26.07783,117.9895,1/31/2020,120
+Gansu,Mainland China,36.0611,103.8343,1/31/2020,29
+Guangdong,Mainland China,23.33841,113.422,1/31/2020,436
+Guangxi,Mainland China,23.82908,108.7881,1/31/2020,87
+Guizhou,Mainland China,26.81536,106.8748,1/31/2020,29
+Hainan,Mainland China,19.19673,109.7455,1/31/2020,52
+Hebei,Mainland China,38.0428,114.5149,1/31/2020,82
+Heilongjiang,Mainland China,47.862,127.7622,1/31/2020,59
+Henan,Mainland China,33.88202,113.614,1/31/2020,352
+Hubei,Mainland China,30.97564,112.2707,1/31/2020,5806
+Hunan,Mainland China,27.61041,111.7088,1/31/2020,332
+Inner Mongolia,Mainland China,44.09448,113.9456,1/31/2020,20
+Jiangsu,Mainland China,32.97027,119.464,1/31/2020,168
+Jiangxi,Mainland China,27.61401,115.7221,1/31/2020,240
+Jilin,Mainland China,43.66657,126.1917,1/31/2020,14
+Liaoning,Mainland China,41.29284,122.6086,1/31/2020,48
+Ningxia,Mainland China,37.26923,106.1655,1/31/2020,21
+Qinghai,Mainland China,35.65945,96.02564,1/31/2020,8
+Shaanxi,Mainland China,35.19165,108.8701,1/31/2020,87
+Shandong,Mainland China,36.34377,118.1529,1/31/2020,184
+Shanghai,Mainland China,31.20327,121.4554,1/31/2020,135
+Shanxi,Mainland China,37.57769,112.2922,1/31/2020,39
+Sichuan,Mainland China,30.61714,102.7103,1/31/2020,177
+Tianjin,Mainland China,39.29362,117.333,1/31/2020,32
+Tibet,Mainland China,30.1534,88.7879,1/31/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,1/31/2020,17
+Yunnan,Mainland China,24.97411,101.4868,1/31/2020,83
+Zhejiang,Mainland China,29.18251,120.0985,1/31/2020,538
+,Thailand,13.7563,100.5018,1/31/2020,19
+,Japan,35.6762,139.6503,1/31/2020,15
+,South Korea,37.5665,126.978,1/31/2020,11
+Taiwan,Taiwan,23.6978,120.9605,1/31/2020,10
+"Seattle, WA",US,47.7511,-120.74,1/31/2020,1
+"Chicago, IL",US,40.6331,-89.3985,1/31/2020,2
+"Tempe, AZ",US,34.0489,-111.094,1/31/2020,1
+Macau,Macau,22.1987,113.5439,1/31/2020,7
+Hong Kong,Hong Kong,22.3193,114.1694,1/31/2020,12
+,Singapore,1.3521,103.8198,1/31/2020,13
+,Vietnam,21.0278,105.8342,1/31/2020,2
+,France,46.2276,2.2137,1/31/2020,5
+,Nepal,28.3949,84.124,1/31/2020,1
+,Malaysia,4.2105,101.9758,1/31/2020,8
+"Toronto, ON",Canada,43.6532,-79.3832,1/31/2020,2
+British Columbia,Canada,49.2827,-123.121,1/31/2020,1
+"Orange, CA",US,33.7879,-117.8531,1/31/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,1/31/2020,1
+New South Wales,Australia,-33.8688,151.2093,1/31/2020,4
+Victoria,Australia,-37.8136,144.9631,1/31/2020,3
+Queensland,Australia,-27.4698,153.0251,1/31/2020,2
+,Cambodia,12.5657,104.991,1/31/2020,1
+,Sri Lanka,7.8731,80.7718,1/31/2020,1
+,Germany,51.1657,10.4515,1/31/2020,5
+,Finland,61.9241,25.7482,1/31/2020,1
+,Philippines,12.8797,121.774,1/31/2020,1
+,India,20.5937,78.9629,1/31/2020,1
+"London, ON",Canada,42.9849,-81.2453,1/31/2020,1
+,Italy,41.8719,12.5674,1/31/2020,2
+,UK,55.3781,-3.436,1/31/2020,2
+,Sweden,60.1282,18.6435,1/31/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,1/31/2020,1
+,Spain,40.4637,-3.7492,1/31/2020,
+South Australia,Australia,-34.9285,138.6007,1/31/2020,
+"Boston, MA",US,42.3601,-71.0589,1/31/2020,
+"San Benito, CA",US,36.5761,-120.9876,1/31/2020,
+,Belgium,50.5039,4.4699,1/31/2020,
+"Madison, WI",US,43.0731,-89.4012,1/31/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,1/31/2020,
+"San Diego County, CA",US,32.7157,-117.1611,1/31/2020,
+"San Antonio, TX",US,29.4241,-98.4936,1/31/2020,
+Anhui,Mainland China,31.82571,117.2264,2/1/2020,297
+Beijing,Mainland China,40.18238,116.4142,2/1/2020,168
+Chongqing,Mainland China,30.05718,107.874,2/1/2020,247
+Fujian,Mainland China,26.07783,117.9895,2/1/2020,144
+Gansu,Mainland China,36.0611,103.8343,2/1/2020,35
+Guangdong,Mainland China,23.33841,113.422,2/1/2020,535
+Guangxi,Mainland China,23.82908,108.7881,2/1/2020,100
+Guizhou,Mainland China,26.81536,106.8748,2/1/2020,29
+Hainan,Mainland China,19.19673,109.7455,2/1/2020,62
+Hebei,Mainland China,38.0428,114.5149,2/1/2020,96
+Heilongjiang,Mainland China,47.862,127.7622,2/1/2020,80
+Henan,Mainland China,33.88202,113.614,2/1/2020,422
+Hubei,Mainland China,30.97564,112.2707,2/1/2020,7153
+Hunan,Mainland China,27.61041,111.7088,2/1/2020,389
+Inner Mongolia,Mainland China,44.09448,113.9456,2/1/2020,23
+Jiangsu,Mainland China,32.97027,119.464,2/1/2020,202
+Jiangxi,Mainland China,27.61401,115.7221,2/1/2020,286
+Jilin,Mainland China,43.66657,126.1917,2/1/2020,17
+Liaoning,Mainland China,41.29284,122.6086,2/1/2020,63
+Ningxia,Mainland China,37.26923,106.1655,2/1/2020,26
+Qinghai,Mainland China,35.65945,96.02564,2/1/2020,9
+Shaanxi,Mainland China,35.19165,108.8701,2/1/2020,101
+Shandong,Mainland China,36.34377,118.1529,2/1/2020,206
+Shanghai,Mainland China,31.20327,121.4554,2/1/2020,169
+Shanxi,Mainland China,37.57769,112.2922,2/1/2020,47
+Sichuan,Mainland China,30.61714,102.7103,2/1/2020,207
+Tianjin,Mainland China,39.29362,117.333,2/1/2020,38
+Tibet,Mainland China,30.1534,88.7879,2/1/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/1/2020,18
+Yunnan,Mainland China,24.97411,101.4868,2/1/2020,91
+Zhejiang,Mainland China,29.18251,120.0985,2/1/2020,599
+,Thailand,13.7563,100.5018,2/1/2020,19
+,Japan,35.6762,139.6503,2/1/2020,17
+,South Korea,37.5665,126.978,2/1/2020,12
+Taiwan,Taiwan,23.6978,120.9605,2/1/2020,10
+"Seattle, WA",US,47.7511,-120.74,2/1/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/1/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/1/2020,1
+Macau,Macau,22.1987,113.5439,2/1/2020,7
+Hong Kong,Hong Kong,22.3193,114.1694,2/1/2020,13
+,Singapore,1.3521,103.8198,2/1/2020,18
+,Vietnam,21.0278,105.8342,2/1/2020,6
+,France,46.2276,2.2137,2/1/2020,6
+,Nepal,28.3949,84.124,2/1/2020,1
+,Malaysia,4.2105,101.9758,2/1/2020,8
+"Toronto, ON",Canada,43.6532,-79.3832,2/1/2020,2
+British Columbia,Canada,49.2827,-123.121,2/1/2020,1
+"Orange, CA",US,33.7879,-117.8531,2/1/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/1/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/1/2020,4
+Victoria,Australia,-37.8136,144.9631,2/1/2020,4
+Queensland,Australia,-27.4698,153.0251,2/1/2020,2
+,Cambodia,12.5657,104.991,2/1/2020,1
+,Sri Lanka,7.8731,80.7718,2/1/2020,1
+,Germany,51.1657,10.4515,2/1/2020,7
+,Finland,61.9241,25.7482,2/1/2020,1
+,Philippines,12.8797,121.774,2/1/2020,1
+,India,20.5937,78.9629,2/1/2020,1
+"London, ON",Canada,42.9849,-81.2453,2/1/2020,1
+,Italy,41.8719,12.5674,2/1/2020,2
+,UK,55.3781,-3.436,2/1/2020,2
+,Sweden,60.1282,18.6435,2/1/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/1/2020,1
+,Spain,40.4637,-3.7492,2/1/2020,1
+South Australia,Australia,-34.9285,138.6007,2/1/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/1/2020,
+"San Benito, CA",US,36.5761,-120.9876,2/1/2020,
+,Belgium,50.5039,4.4699,2/1/2020,
+"Madison, WI",US,43.0731,-89.4012,2/1/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,2/1/2020,
+"San Diego County, CA",US,32.7157,-117.1611,2/1/2020,
+"San Antonio, TX",US,29.4241,-98.4936,2/1/2020,
+Anhui,Mainland China,31.82571,117.2264,2/2/2020,408
+Beijing,Mainland China,40.18238,116.4142,2/2/2020,191
+Chongqing,Mainland China,30.05718,107.874,2/2/2020,300
+Fujian,Mainland China,26.07783,117.9895,2/2/2020,159
+Gansu,Mainland China,36.0611,103.8343,2/2/2020,51
+Guangdong,Mainland China,23.33841,113.422,2/2/2020,683
+Guangxi,Mainland China,23.82908,108.7881,2/2/2020,127
+Guizhou,Mainland China,26.81536,106.8748,2/2/2020,46
+Hainan,Mainland China,19.19673,109.7455,2/2/2020,71
+Hebei,Mainland China,38.0428,114.5149,2/2/2020,113
+Heilongjiang,Mainland China,47.862,127.7622,2/2/2020,95
+Henan,Mainland China,33.88202,113.614,2/2/2020,566
+Hubei,Mainland China,30.97564,112.2707,2/2/2020,11177
+Hunan,Mainland China,27.61041,111.7088,2/2/2020,521
+Inner Mongolia,Mainland China,44.09448,113.9456,2/2/2020,27
+Jiangsu,Mainland China,32.97027,119.464,2/2/2020,271
+Jiangxi,Mainland China,27.61401,115.7221,2/2/2020,391
+Jilin,Mainland China,43.66657,126.1917,2/2/2020,31
+Liaoning,Mainland China,41.29284,122.6086,2/2/2020,70
+Ningxia,Mainland China,37.26923,106.1655,2/2/2020,28
+Qinghai,Mainland China,35.65945,96.02564,2/2/2020,11
+Shaanxi,Mainland China,35.19165,108.8701,2/2/2020,116
+Shandong,Mainland China,36.34377,118.1529,2/2/2020,246
+Shanghai,Mainland China,31.20327,121.4554,2/2/2020,193
+Shanxi,Mainland China,37.57769,112.2922,2/2/2020,66
+Sichuan,Mainland China,30.61714,102.7103,2/2/2020,254
+Tianjin,Mainland China,39.29362,117.333,2/2/2020,48
+Tibet,Mainland China,30.1534,88.7879,2/2/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/2/2020,24
+Yunnan,Mainland China,24.97411,101.4868,2/2/2020,105
+Zhejiang,Mainland China,29.18251,120.0985,2/2/2020,724
+,Thailand,13.7563,100.5018,2/2/2020,19
+,Japan,35.6762,139.6503,2/2/2020,20
+,South Korea,37.5665,126.978,2/2/2020,15
+Taiwan,Taiwan,23.6978,120.9605,2/2/2020,10
+"Seattle, WA",US,47.7511,-120.74,2/2/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/2/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/2/2020,1
+Macau,Macau,22.1987,113.5439,2/2/2020,8
+Hong Kong,Hong Kong,22.3193,114.1694,2/2/2020,15
+,Singapore,1.3521,103.8198,2/2/2020,18
+,Vietnam,21.0278,105.8342,2/2/2020,6
+,France,46.2276,2.2137,2/2/2020,6
+,Nepal,28.3949,84.124,2/2/2020,1
+,Malaysia,4.2105,101.9758,2/2/2020,8
+"Toronto, ON",Canada,43.6532,-79.3832,2/2/2020,2
+British Columbia,Canada,49.2827,-123.121,2/2/2020,1
+"Orange, CA",US,33.7879,-117.8531,2/2/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/2/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/2/2020,4
+Victoria,Australia,-37.8136,144.9631,2/2/2020,4
+Queensland,Australia,-27.4698,153.0251,2/2/2020,2
+,Cambodia,12.5657,104.991,2/2/2020,1
+,Sri Lanka,7.8731,80.7718,2/2/2020,1
+,Germany,51.1657,10.4515,2/2/2020,10
+,Finland,61.9241,25.7482,2/2/2020,1
+,Philippines,12.8797,121.774,2/2/2020,2
+,India,20.5937,78.9629,2/2/2020,2
+"London, ON",Canada,42.9849,-81.2453,2/2/2020,1
+,Italy,41.8719,12.5674,2/2/2020,2
+,UK,55.3781,-3.436,2/2/2020,2
+,Sweden,60.1282,18.6435,2/2/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/2/2020,1
+,Spain,40.4637,-3.7492,2/2/2020,1
+South Australia,Australia,-34.9285,138.6007,2/2/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/2/2020,1
+"San Benito, CA",US,36.5761,-120.9876,2/2/2020,
+,Belgium,50.5039,4.4699,2/2/2020,
+"Madison, WI",US,43.0731,-89.4012,2/2/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,2/2/2020,
+"San Diego County, CA",US,32.7157,-117.1611,2/2/2020,
+"San Antonio, TX",US,29.4241,-98.4936,2/2/2020,
+Anhui,Mainland China,31.82571,117.2264,2/3/2020,480
+Beijing,Mainland China,40.18238,116.4142,2/3/2020,212
+Chongqing,Mainland China,30.05718,107.874,2/3/2020,337
+Fujian,Mainland China,26.07783,117.9895,2/3/2020,179
+Gansu,Mainland China,36.0611,103.8343,2/3/2020,55
+Guangdong,Mainland China,23.33841,113.422,2/3/2020,725
+Guangxi,Mainland China,23.82908,108.7881,2/3/2020,139
+Guizhou,Mainland China,26.81536,106.8748,2/3/2020,56
+Hainan,Mainland China,19.19673,109.7455,2/3/2020,79
+Hebei,Mainland China,38.0428,114.5149,2/3/2020,126
+Heilongjiang,Mainland China,47.862,127.7622,2/3/2020,155
+Henan,Mainland China,33.88202,113.614,2/3/2020,675
+Hubei,Mainland China,30.97564,112.2707,2/3/2020,13522
+Hunan,Mainland China,27.61041,111.7088,2/3/2020,521
+Inner Mongolia,Mainland China,44.09448,113.9456,2/3/2020,34
+Jiangsu,Mainland China,32.97027,119.464,2/3/2020,308
+Jiangxi,Mainland China,27.61401,115.7221,2/3/2020,391
+Jilin,Mainland China,43.66657,126.1917,2/3/2020,42
+Liaoning,Mainland China,41.29284,122.6086,2/3/2020,74
+Ningxia,Mainland China,37.26923,106.1655,2/3/2020,31
+Qinghai,Mainland China,35.65945,96.02564,2/3/2020,13
+Shaanxi,Mainland China,35.19165,108.8701,2/3/2020,128
+Shandong,Mainland China,36.34377,118.1529,2/3/2020,270
+Shanghai,Mainland China,31.20327,121.4554,2/3/2020,208
+Shanxi,Mainland China,37.57769,112.2922,2/3/2020,74
+Sichuan,Mainland China,30.61714,102.7103,2/3/2020,254
+Tianjin,Mainland China,39.29362,117.333,2/3/2020,60
+Tibet,Mainland China,30.1534,88.7879,2/3/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/3/2020,24
+Yunnan,Mainland China,24.97411,101.4868,2/3/2020,117
+Zhejiang,Mainland China,29.18251,120.0985,2/3/2020,724
+,Thailand,13.7563,100.5018,2/3/2020,19
+,Japan,35.6762,139.6503,2/3/2020,20
+,South Korea,37.5665,126.978,2/3/2020,15
+Taiwan,Taiwan,23.6978,120.9605,2/3/2020,10
+"Seattle, WA",US,47.7511,-120.74,2/3/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/3/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/3/2020,1
+Macau,Macau,22.1987,113.5439,2/3/2020,8
+Hong Kong,Hong Kong,22.3193,114.1694,2/3/2020,15
+,Singapore,1.3521,103.8198,2/3/2020,18
+,Vietnam,21.0278,105.8342,2/3/2020,8
+,France,46.2276,2.2137,2/3/2020,6
+,Nepal,28.3949,84.124,2/3/2020,1
+,Malaysia,4.2105,101.9758,2/3/2020,8
+"Toronto, ON",Canada,43.6532,-79.3832,2/3/2020,2
+British Columbia,Canada,49.2827,-123.121,2/3/2020,1
+"Orange, CA",US,33.7879,-117.8531,2/3/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/3/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/3/2020,4
+Victoria,Australia,-37.8136,144.9631,2/3/2020,4
+Queensland,Australia,-27.4698,153.0251,2/3/2020,2
+,Cambodia,12.5657,104.991,2/3/2020,1
+,Sri Lanka,7.8731,80.7718,2/3/2020,1
+,Germany,51.1657,10.4515,2/3/2020,10
+,Finland,61.9241,25.7482,2/3/2020,1
+,Philippines,12.8797,121.774,2/3/2020,2
+,India,20.5937,78.9629,2/3/2020,2
+"London, ON",Canada,42.9849,-81.2453,2/3/2020,1
+,Italy,41.8719,12.5674,2/3/2020,2
+,UK,55.3781,-3.436,2/3/2020,2
+,Sweden,60.1282,18.6435,2/3/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/3/2020,1
+,Spain,40.4637,-3.7492,2/3/2020,1
+South Australia,Australia,-34.9285,138.6007,2/3/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/3/2020,1
+"San Benito, CA",US,36.5761,-120.9876,2/3/2020,2
+,Belgium,50.5039,4.4699,2/3/2020,
+"Madison, WI",US,43.0731,-89.4012,2/3/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,2/3/2020,
+"San Diego County, CA",US,32.7157,-117.1611,2/3/2020,
+"San Antonio, TX",US,29.4241,-98.4936,2/3/2020,
+Anhui,Mainland China,31.82571,117.2264,2/4/2020,530
+Beijing,Mainland China,40.18238,116.4142,2/4/2020,228
+Chongqing,Mainland China,30.05718,107.874,2/4/2020,366
+Fujian,Mainland China,26.07783,117.9895,2/4/2020,194
+Gansu,Mainland China,36.0611,103.8343,2/4/2020,57
+Guangdong,Mainland China,23.33841,113.422,2/4/2020,870
+Guangxi,Mainland China,23.82908,108.7881,2/4/2020,150
+Guizhou,Mainland China,26.81536,106.8748,2/4/2020,64
+Hainan,Mainland China,19.19673,109.7455,2/4/2020,91
+Hebei,Mainland China,38.0428,114.5149,2/4/2020,135
+Heilongjiang,Mainland China,47.862,127.7622,2/4/2020,190
+Henan,Mainland China,33.88202,113.614,2/4/2020,764
+Hubei,Mainland China,30.97564,112.2707,2/4/2020,16678
+Hunan,Mainland China,27.61041,111.7088,2/4/2020,661
+Inner Mongolia,Mainland China,44.09448,113.9456,2/4/2020,42
+Jiangsu,Mainland China,32.97027,119.464,2/4/2020,341
+Jiangxi,Mainland China,27.61401,115.7221,2/4/2020,548
+Jilin,Mainland China,43.66657,126.1917,2/4/2020,54
+Liaoning,Mainland China,41.29284,122.6086,2/4/2020,81
+Ningxia,Mainland China,37.26923,106.1655,2/4/2020,34
+Qinghai,Mainland China,35.65945,96.02564,2/4/2020,17
+Shaanxi,Mainland China,35.19165,108.8701,2/4/2020,165
+Shandong,Mainland China,36.34377,118.1529,2/4/2020,298
+Shanghai,Mainland China,31.20327,121.4554,2/4/2020,233
+Shanxi,Mainland China,37.57769,112.2922,2/4/2020,81
+Sichuan,Mainland China,30.61714,102.7103,2/4/2020,301
+Tianjin,Mainland China,39.29362,117.333,2/4/2020,67
+Tibet,Mainland China,30.1534,88.7879,2/4/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/4/2020,32
+Yunnan,Mainland China,24.97411,101.4868,2/4/2020,122
+Zhejiang,Mainland China,29.18251,120.0985,2/4/2020,895
+,Thailand,13.7563,100.5018,2/4/2020,25
+,Japan,35.6762,139.6503,2/4/2020,22
+,South Korea,37.5665,126.978,2/4/2020,16
+Taiwan,Taiwan,23.6978,120.9605,2/4/2020,11
+"Seattle, WA",US,47.7511,-120.74,2/4/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/4/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/4/2020,1
+Macau,Macau,22.1987,113.5439,2/4/2020,10
+Hong Kong,Hong Kong,22.3193,114.1694,2/4/2020,18
+,Singapore,1.3521,103.8198,2/4/2020,24
+,Vietnam,21.0278,105.8342,2/4/2020,8
+,France,46.2276,2.2137,2/4/2020,6
+,Nepal,28.3949,84.124,2/4/2020,1
+,Malaysia,4.2105,101.9758,2/4/2020,10
+"Toronto, ON",Canada,43.6532,-79.3832,2/4/2020,2
+British Columbia,Canada,49.2827,-123.121,2/4/2020,1
+"Orange, CA",US,33.7879,-117.8531,2/4/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/4/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/4/2020,4
+Victoria,Australia,-37.8136,144.9631,2/4/2020,4
+Queensland,Australia,-27.4698,153.0251,2/4/2020,3
+,Cambodia,12.5657,104.991,2/4/2020,1
+,Sri Lanka,7.8731,80.7718,2/4/2020,1
+,Germany,51.1657,10.4515,2/4/2020,12
+,Finland,61.9241,25.7482,2/4/2020,1
+,Philippines,12.8797,121.774,2/4/2020,2
+,India,20.5937,78.9629,2/4/2020,3
+"London, ON",Canada,42.9849,-81.2453,2/4/2020,1
+,Italy,41.8719,12.5674,2/4/2020,2
+,UK,55.3781,-3.436,2/4/2020,2
+,Sweden,60.1282,18.6435,2/4/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/4/2020,2
+,Spain,40.4637,-3.7492,2/4/2020,1
+South Australia,Australia,-34.9285,138.6007,2/4/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/4/2020,1
+"San Benito, CA",US,36.5761,-120.9876,2/4/2020,2
+,Belgium,50.5039,4.4699,2/4/2020,1
+"Madison, WI",US,43.0731,-89.4012,2/4/2020,
+Diamond Princess cruise ship,Others,35.4437,129.638,2/4/2020,
+"San Diego County, CA",US,32.7157,-117.1611,2/4/2020,
+"San Antonio, TX",US,29.4241,-98.4936,2/4/2020,
+Anhui,Mainland China,31.82571,117.2264,2/5/2020,591
+Beijing,Mainland China,40.18238,116.4142,2/5/2020,274
+Chongqing,Mainland China,30.05718,107.874,2/5/2020,389
+Fujian,Mainland China,26.07783,117.9895,2/5/2020,215
+Gansu,Mainland China,36.0611,103.8343,2/5/2020,62
+Guangdong,Mainland China,23.33841,113.422,2/5/2020,944
+Guangxi,Mainland China,23.82908,108.7881,2/5/2020,168
+Guizhou,Mainland China,26.81536,106.8748,2/5/2020,69
+Hainan,Mainland China,19.19673,109.7455,2/5/2020,100
+Hebei,Mainland China,38.0428,114.5149,2/5/2020,157
+Heilongjiang,Mainland China,47.862,127.7622,2/5/2020,227
+Henan,Mainland China,33.88202,113.614,2/5/2020,851
+Hubei,Mainland China,30.97564,112.2707,2/5/2020,19665
+Hunan,Mainland China,27.61041,111.7088,2/5/2020,711
+Inner Mongolia,Mainland China,44.09448,113.9456,2/5/2020,46
+Jiangsu,Mainland China,32.97027,119.464,2/5/2020,373
+Jiangxi,Mainland China,27.61401,115.7221,2/5/2020,600
+Jilin,Mainland China,43.66657,126.1917,2/5/2020,59
+Liaoning,Mainland China,41.29284,122.6086,2/5/2020,89
+Ningxia,Mainland China,37.26923,106.1655,2/5/2020,40
+Qinghai,Mainland China,35.65945,96.02564,2/5/2020,18
+Shaanxi,Mainland China,35.19165,108.8701,2/5/2020,173
+Shandong,Mainland China,36.34377,118.1529,2/5/2020,343
+Shanghai,Mainland China,31.20327,121.4554,2/5/2020,254
+Shanxi,Mainland China,37.57769,112.2922,2/5/2020,90
+Sichuan,Mainland China,30.61714,102.7103,2/5/2020,321
+Tianjin,Mainland China,39.29362,117.333,2/5/2020,69
+Tibet,Mainland China,30.1534,88.7879,2/5/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/5/2020,36
+Yunnan,Mainland China,24.97411,101.4868,2/5/2020,128
+Zhejiang,Mainland China,29.18251,120.0985,2/5/2020,954
+,Thailand,13.7563,100.5018,2/5/2020,25
+,Japan,35.6762,139.6503,2/5/2020,45
+,South Korea,37.5665,126.978,2/5/2020,23
+Taiwan,Taiwan,23.6978,120.9605,2/5/2020,11
+"Seattle, WA",US,47.7511,-120.74,2/5/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/5/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/5/2020,1
+Macau,Macau,22.1987,113.5439,2/5/2020,10
+Hong Kong,Hong Kong,22.3193,114.1694,2/5/2020,21
+,Singapore,1.3521,103.8198,2/5/2020,28
+,Vietnam,21.0278,105.8342,2/5/2020,10
+,France,46.2276,2.2137,2/5/2020,6
+,Nepal,28.3949,84.124,2/5/2020,1
+,Malaysia,4.2105,101.9758,2/5/2020,12
+"Toronto, ON",Canada,43.6532,-79.3832,2/5/2020,2
+British Columbia,Canada,49.2827,-123.121,2/5/2020,2
+"Orange, CA",US,33.7879,-117.8531,2/5/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/5/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/5/2020,4
+Victoria,Australia,-37.8136,144.9631,2/5/2020,4
+Queensland,Australia,-27.4698,153.0251,2/5/2020,4
+,Cambodia,12.5657,104.991,2/5/2020,1
+,Sri Lanka,7.8731,80.7718,2/5/2020,1
+,Germany,51.1657,10.4515,2/5/2020,12
+,Finland,61.9241,25.7482,2/5/2020,1
+,Philippines,12.8797,121.774,2/5/2020,2
+,India,20.5937,78.9629,2/5/2020,3
+"London, ON",Canada,42.9849,-81.2453,2/5/2020,1
+,Italy,41.8719,12.5674,2/5/2020,2
+,UK,55.3781,-3.436,2/5/2020,2
+,Sweden,60.1282,18.6435,2/5/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/5/2020,2
+,Spain,40.4637,-3.7492,2/5/2020,1
+South Australia,Australia,-34.9285,138.6007,2/5/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/5/2020,1
+"San Benito, CA",US,36.5761,-120.9876,2/5/2020,2
+,Belgium,50.5039,4.4699,2/5/2020,1
+"Madison, WI",US,43.0731,-89.4012,2/5/2020,1
+Diamond Princess cruise ship,Others,35.4437,129.638,2/5/2020,
+"San Diego County, CA",US,32.7157,-117.1611,2/5/2020,
+"San Antonio, TX",US,29.4241,-98.4936,2/5/2020,
+Anhui,Mainland China,31.82571,117.2264,2/6/2020,591
+Beijing,Mainland China,40.18238,116.4142,2/6/2020,274
+Chongqing,Mainland China,30.05718,107.874,2/6/2020,400
+Fujian,Mainland China,26.07783,117.9895,2/6/2020,215
+Gansu,Mainland China,36.0611,103.8343,2/6/2020,62
+Guangdong,Mainland China,23.33841,113.422,2/6/2020,970
+Guangxi,Mainland China,23.82908,108.7881,2/6/2020,168
+Guizhou,Mainland China,26.81536,106.8748,2/6/2020,71
+Hainan,Mainland China,19.19673,109.7455,2/6/2020,106
+Hebei,Mainland China,38.0428,114.5149,2/6/2020,157
+Heilongjiang,Mainland China,47.862,127.7622,2/6/2020,227
+Henan,Mainland China,33.88202,113.614,2/6/2020,851
+Hubei,Mainland China,30.97564,112.2707,2/6/2020,19665
+Hunan,Mainland China,27.61041,111.7088,2/6/2020,711
+Inner Mongolia,Mainland China,44.09448,113.9456,2/6/2020,46
+Jiangsu,Mainland China,32.97027,119.464,2/6/2020,373
+Jiangxi,Mainland China,27.61401,115.7221,2/6/2020,600
+Jilin,Mainland China,43.66657,126.1917,2/6/2020,59
+Liaoning,Mainland China,41.29284,122.6086,2/6/2020,94
+Ningxia,Mainland China,37.26923,106.1655,2/6/2020,40
+Qinghai,Mainland China,35.65945,96.02564,2/6/2020,18
+Shaanxi,Mainland China,35.19165,108.8701,2/6/2020,173
+Shandong,Mainland China,36.34377,118.1529,2/6/2020,347
+Shanghai,Mainland China,31.20327,121.4554,2/6/2020,257
+Shanxi,Mainland China,37.57769,112.2922,2/6/2020,90
+Sichuan,Mainland China,30.61714,102.7103,2/6/2020,321
+Tianjin,Mainland China,39.29362,117.333,2/6/2020,78
+Tibet,Mainland China,30.1534,88.7879,2/6/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/6/2020,36
+Yunnan,Mainland China,24.97411,101.4868,2/6/2020,133
+Zhejiang,Mainland China,29.18251,120.0985,2/6/2020,954
+,Thailand,13.7563,100.5018,2/6/2020,25
+,Japan,35.6762,139.6503,2/6/2020,45
+,South Korea,37.5665,126.978,2/6/2020,23
+Taiwan,Taiwan,23.6978,120.9605,2/6/2020,16
+"Seattle, WA",US,47.7511,-120.74,2/6/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/6/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/6/2020,1
+Macau,Macau,22.1987,113.5439,2/6/2020,10
+Hong Kong,Hong Kong,22.3193,114.1694,2/6/2020,24
+,Singapore,1.3521,103.8198,2/6/2020,28
+,Vietnam,21.0278,105.8342,2/6/2020,10
+,France,46.2276,2.2137,2/6/2020,6
+,Nepal,28.3949,84.124,2/6/2020,1
+,Malaysia,4.2105,101.9758,2/6/2020,12
+"Toronto, ON",Canada,43.6532,-79.3832,2/6/2020,2
+British Columbia,Canada,49.2827,-123.121,2/6/2020,2
+"Orange, CA",US,33.7879,-117.8531,2/6/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/6/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/6/2020,4
+Victoria,Australia,-37.8136,144.9631,2/6/2020,4
+Queensland,Australia,-27.4698,153.0251,2/6/2020,4
+,Cambodia,12.5657,104.991,2/6/2020,1
+,Sri Lanka,7.8731,80.7718,2/6/2020,1
+,Germany,51.1657,10.4515,2/6/2020,12
+,Finland,61.9241,25.7482,2/6/2020,1
+,Philippines,12.8797,121.774,2/6/2020,2
+,India,20.5937,78.9629,2/6/2020,3
+"London, ON",Canada,42.9849,-81.2453,2/6/2020,1
+,Italy,41.8719,12.5674,2/6/2020,2
+,UK,55.3781,-3.436,2/6/2020,2
+,Sweden,60.1282,18.6435,2/6/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/6/2020,2
+,Spain,40.4637,-3.7492,2/6/2020,1
+South Australia,Australia,-34.9285,138.6007,2/6/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/6/2020,1
+"San Benito, CA",US,36.5761,-120.9876,2/6/2020,2
+,Belgium,50.5039,4.4699,2/6/2020,1
+"Madison, WI",US,43.0731,-89.4012,2/6/2020,1
+Diamond Princess cruise ship,Others,35.4437,129.638,2/6/2020,
+"San Diego County, CA",US,32.7157,-117.1611,2/6/2020,
+"San Antonio, TX",US,29.4241,-98.4936,2/6/2020,
+Anhui,Mainland China,31.82571,117.2264,2/7/2020,733
+Beijing,Mainland China,40.18238,116.4142,2/7/2020,315
+Chongqing,Mainland China,30.05718,107.874,2/7/2020,426
+Fujian,Mainland China,26.07783,117.9895,2/7/2020,239
+Gansu,Mainland China,36.0611,103.8343,2/7/2020,71
+Guangdong,Mainland China,23.33841,113.422,2/7/2020,1075
+Guangxi,Mainland China,23.82908,108.7881,2/7/2020,183
+Guizhou,Mainland China,26.81536,106.8748,2/7/2020,89
+Hainan,Mainland China,19.19673,109.7455,2/7/2020,124
+Hebei,Mainland China,38.0428,114.5149,2/7/2020,195
+Heilongjiang,Mainland China,47.862,127.7622,2/7/2020,295
+Henan,Mainland China,33.88202,113.614,2/7/2020,981
+Hubei,Mainland China,30.97564,112.2707,2/7/2020,24953
+Hunan,Mainland China,27.61041,111.7088,2/7/2020,803
+Inner Mongolia,Mainland China,44.09448,113.9456,2/7/2020,52
+Jiangsu,Mainland China,32.97027,119.464,2/7/2020,439
+Jiangxi,Mainland China,27.61401,115.7221,2/7/2020,698
+Jilin,Mainland China,43.66657,126.1917,2/7/2020,69
+Liaoning,Mainland China,41.29284,122.6086,2/7/2020,99
+Ningxia,Mainland China,37.26923,106.1655,2/7/2020,45
+Qinghai,Mainland China,35.65945,96.02564,2/7/2020,18
+Shaanxi,Mainland China,35.19165,108.8701,2/7/2020,195
+Shandong,Mainland China,36.34377,118.1529,2/7/2020,407
+Shanghai,Mainland China,31.20327,121.4554,2/7/2020,281
+Shanxi,Mainland China,37.57769,112.2922,2/7/2020,104
+Sichuan,Mainland China,30.61714,102.7103,2/7/2020,363
+Tianjin,Mainland China,39.29362,117.333,2/7/2020,88
+Tibet,Mainland China,30.1534,88.7879,2/7/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/7/2020,42
+Yunnan,Mainland China,24.97411,101.4868,2/7/2020,138
+Zhejiang,Mainland China,29.18251,120.0985,2/7/2020,1048
+,Thailand,13.7563,100.5018,2/7/2020,25
+,Japan,35.6762,139.6503,2/7/2020,25
+,South Korea,37.5665,126.978,2/7/2020,36
+Taiwan,Taiwan,23.6978,120.9605,2/7/2020,16
+"Seattle, WA",US,47.7511,-120.74,2/7/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/7/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/7/2020,1
+Macau,Macau,22.1987,113.5439,2/7/2020,10
+Hong Kong,Hong Kong,22.3193,114.1694,2/7/2020,26
+,Singapore,1.3521,103.8198,2/7/2020,30
+,Vietnam,21.0278,105.8342,2/7/2020,10
+,France,46.2276,2.2137,2/7/2020,6
+,Nepal,28.3949,84.124,2/7/2020,1
+,Malaysia,4.2105,101.9758,2/7/2020,12
+"Toronto, ON",Canada,43.6532,-79.3832,2/7/2020,2
+British Columbia,Canada,49.2827,-123.121,2/7/2020,4
+"Orange, CA",US,33.7879,-117.8531,2/7/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/7/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/7/2020,4
+Victoria,Australia,-37.8136,144.9631,2/7/2020,4
+Queensland,Australia,-27.4698,153.0251,2/7/2020,5
+,Cambodia,12.5657,104.991,2/7/2020,1
+,Sri Lanka,7.8731,80.7718,2/7/2020,1
+,Germany,51.1657,10.4515,2/7/2020,13
+,Finland,61.9241,25.7482,2/7/2020,1
+,Philippines,12.8797,121.774,2/7/2020,3
+,India,20.5937,78.9629,2/7/2020,3
+"London, ON",Canada,42.9849,-81.2453,2/7/2020,1
+,Italy,41.8719,12.5674,2/7/2020,3
+,UK,55.3781,-3.436,2/7/2020,3
+,Sweden,60.1282,18.6435,2/7/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/7/2020,2
+,Spain,40.4637,-3.7492,2/7/2020,1
+South Australia,Australia,-34.9285,138.6007,2/7/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/7/2020,1
+"San Benito, CA",US,36.5761,-120.9876,2/7/2020,2
+,Belgium,50.5039,4.4699,2/7/2020,1
+"Madison, WI",US,43.0731,-89.4012,2/7/2020,1
+Diamond Princess cruise ship,Others,35.4437,129.638,2/7/2020,61
+"San Diego County, CA",US,32.7157,-117.1611,2/7/2020,
+"San Antonio, TX",US,29.4241,-98.4936,2/7/2020,
+Anhui,Mainland China,31.82571,117.2264,2/8/2020,779
+Beijing,Mainland China,40.18238,116.4142,2/8/2020,326
+Chongqing,Mainland China,30.05718,107.874,2/8/2020,446
+Fujian,Mainland China,26.07783,117.9895,2/8/2020,250
+Gansu,Mainland China,36.0611,103.8343,2/8/2020,79
+Guangdong,Mainland China,23.33841,113.422,2/8/2020,1120
+Guangxi,Mainland China,23.82908,108.7881,2/8/2020,195
+Guizhou,Mainland China,26.81536,106.8748,2/8/2020,96
+Hainan,Mainland China,19.19673,109.7455,2/8/2020,128
+Hebei,Mainland China,38.0428,114.5149,2/8/2020,206
+Heilongjiang,Mainland China,47.862,127.7622,2/8/2020,307
+Henan,Mainland China,33.88202,113.614,2/8/2020,1033
+Hubei,Mainland China,30.97564,112.2707,2/8/2020,27100
+Hunan,Mainland China,27.61041,111.7088,2/8/2020,838
+Inner Mongolia,Mainland China,44.09448,113.9456,2/8/2020,54
+Jiangsu,Mainland China,32.97027,119.464,2/8/2020,468
+Jiangxi,Mainland China,27.61401,115.7221,2/8/2020,740
+Jilin,Mainland China,43.66657,126.1917,2/8/2020,78
+Liaoning,Mainland China,41.29284,122.6086,2/8/2020,105
+Ningxia,Mainland China,37.26923,106.1655,2/8/2020,45
+Qinghai,Mainland China,35.65945,96.02564,2/8/2020,18
+Shaanxi,Mainland China,35.19165,108.8701,2/8/2020,208
+Shandong,Mainland China,36.34377,118.1529,2/8/2020,435
+Shanghai,Mainland China,31.20327,121.4554,2/8/2020,292
+Shanxi,Mainland China,37.57769,112.2922,2/8/2020,115
+Sichuan,Mainland China,30.61714,102.7103,2/8/2020,386
+Tianjin,Mainland China,39.29362,117.333,2/8/2020,90
+Tibet,Mainland China,30.1534,88.7879,2/8/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/8/2020,45
+Yunnan,Mainland China,24.97411,101.4868,2/8/2020,140
+Zhejiang,Mainland China,29.18251,120.0985,2/8/2020,1075
+,Thailand,13.7563,100.5018,2/8/2020,32
+,Japan,35.6762,139.6503,2/8/2020,25
+,South Korea,37.5665,126.978,2/8/2020,25
+Taiwan,Taiwan,23.6978,120.9605,2/8/2020,17
+"Seattle, WA",US,47.7511,-120.74,2/8/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/8/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/8/2020,1
+Macau,Macau,22.1987,113.5439,2/8/2020,10
+Hong Kong,Hong Kong,22.3193,114.1694,2/8/2020,26
+,Singapore,1.3521,103.8198,2/8/2020,40
+,Vietnam,21.0278,105.8342,2/8/2020,13
+,France,46.2276,2.2137,2/8/2020,11
+,Nepal,28.3949,84.124,2/8/2020,1
+,Malaysia,4.2105,101.9758,2/8/2020,16
+"Toronto, ON",Canada,43.6532,-79.3832,2/8/2020,2
+British Columbia,Canada,49.2827,-123.121,2/8/2020,4
+"Orange, CA",US,33.7879,-117.8531,2/8/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/8/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/8/2020,4
+Victoria,Australia,-37.8136,144.9631,2/8/2020,4
+Queensland,Australia,-27.4698,153.0251,2/8/2020,5
+,Cambodia,12.5657,104.991,2/8/2020,1
+,Sri Lanka,7.8731,80.7718,2/8/2020,1
+,Germany,51.1657,10.4515,2/8/2020,13
+,Finland,61.9241,25.7482,2/8/2020,1
+,Philippines,12.8797,121.774,2/8/2020,3
+,India,20.5937,78.9629,2/8/2020,3
+"London, ON",Canada,42.9849,-81.2453,2/8/2020,1
+,Italy,41.8719,12.5674,2/8/2020,3
+,UK,55.3781,-3.436,2/8/2020,3
+,Sweden,60.1282,18.6435,2/8/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/8/2020,2
+,Spain,40.4637,-3.7492,2/8/2020,1
+South Australia,Australia,-34.9285,138.6007,2/8/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/8/2020,1
+"San Benito, CA",US,36.5761,-120.9876,2/8/2020,2
+,Belgium,50.5039,4.4699,2/8/2020,1
+"Madison, WI",US,43.0731,-89.4012,2/8/2020,1
+Diamond Princess cruise ship,Others,35.4437,129.638,2/8/2020,61
+"San Diego County, CA",US,32.7157,-117.1611,2/8/2020,
+"San Antonio, TX",US,29.4241,-98.4936,2/8/2020,
+Anhui,Mainland China,31.82571,117.2264,2/9/2020,830
+Beijing,Mainland China,40.18238,116.4142,2/9/2020,337
+Chongqing,Mainland China,30.05718,107.874,2/9/2020,468
+Fujian,Mainland China,26.07783,117.9895,2/9/2020,261
+Gansu,Mainland China,36.0611,103.8343,2/9/2020,83
+Guangdong,Mainland China,23.33841,113.422,2/9/2020,1151
+Guangxi,Mainland China,23.82908,108.7881,2/9/2020,210
+Guizhou,Mainland China,26.81536,106.8748,2/9/2020,109
+Hainan,Mainland China,19.19673,109.7455,2/9/2020,136
+Hebei,Mainland China,38.0428,114.5149,2/9/2020,218
+Heilongjiang,Mainland China,47.862,127.7622,2/9/2020,331
+Henan,Mainland China,33.88202,113.614,2/9/2020,1073
+Hubei,Mainland China,30.97564,112.2707,2/9/2020,29631
+Hunan,Mainland China,27.61041,111.7088,2/9/2020,879
+Inner Mongolia,Mainland China,44.09448,113.9456,2/9/2020,58
+Jiangsu,Mainland China,32.97027,119.464,2/9/2020,492
+Jiangxi,Mainland China,27.61401,115.7221,2/9/2020,771
+Jilin,Mainland China,43.66657,126.1917,2/9/2020,80
+Liaoning,Mainland China,41.29284,122.6086,2/9/2020,107
+Ningxia,Mainland China,37.26923,106.1655,2/9/2020,49
+Qinghai,Mainland China,35.65945,96.02564,2/9/2020,18
+Shaanxi,Mainland China,35.19165,108.8701,2/9/2020,213
+Shandong,Mainland China,36.34377,118.1529,2/9/2020,459
+Shanghai,Mainland China,31.20327,121.4554,2/9/2020,295
+Shanxi,Mainland China,37.57769,112.2922,2/9/2020,119
+Sichuan,Mainland China,30.61714,102.7103,2/9/2020,405
+Tianjin,Mainland China,39.29362,117.333,2/9/2020,94
+Tibet,Mainland China,30.1534,88.7879,2/9/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/9/2020,49
+Yunnan,Mainland China,24.97411,101.4868,2/9/2020,141
+Zhejiang,Mainland China,29.18251,120.0985,2/9/2020,1092
+,Thailand,13.7563,100.5018,2/9/2020,32
+,Japan,35.6762,139.6503,2/9/2020,26
+,South Korea,37.5665,126.978,2/9/2020,27
+Taiwan,Taiwan,23.6978,120.9605,2/9/2020,18
+"Seattle, WA",US,47.7511,-120.74,2/9/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/9/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/9/2020,1
+Macau,Macau,22.1987,113.5439,2/9/2020,10
+Hong Kong,Hong Kong,22.3193,114.1694,2/9/2020,36
+,Singapore,1.3521,103.8198,2/9/2020,43
+,Vietnam,21.0278,105.8342,2/9/2020,14
+,France,46.2276,2.2137,2/9/2020,11
+,Nepal,28.3949,84.124,2/9/2020,1
+,Malaysia,4.2105,101.9758,2/9/2020,18
+"Toronto, ON",Canada,43.6532,-79.3832,2/9/2020,2
+British Columbia,Canada,49.2827,-123.121,2/9/2020,4
+"Orange, CA",US,33.7879,-117.8531,2/9/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/9/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/9/2020,4
+Victoria,Australia,-37.8136,144.9631,2/9/2020,4
+Queensland,Australia,-27.4698,153.0251,2/9/2020,5
+,Cambodia,12.5657,104.991,2/9/2020,1
+,Sri Lanka,7.8731,80.7718,2/9/2020,1
+,Germany,51.1657,10.4515,2/9/2020,14
+,Finland,61.9241,25.7482,2/9/2020,1
+,Philippines,12.8797,121.774,2/9/2020,3
+,India,20.5937,78.9629,2/9/2020,3
+"London, ON",Canada,42.9849,-81.2453,2/9/2020,1
+,Italy,41.8719,12.5674,2/9/2020,3
+,UK,55.3781,-3.436,2/9/2020,3
+,Sweden,60.1282,18.6435,2/9/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/9/2020,2
+,Spain,40.4637,-3.7492,2/9/2020,2
+South Australia,Australia,-34.9285,138.6007,2/9/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/9/2020,1
+"San Benito, CA",US,36.5761,-120.9876,2/9/2020,2
+,Belgium,50.5039,4.4699,2/9/2020,1
+"Madison, WI",US,43.0731,-89.4012,2/9/2020,1
+Diamond Princess cruise ship,Others,35.4437,129.638,2/9/2020,64
+"San Diego County, CA",US,32.7157,-117.1611,2/9/2020,
+"San Antonio, TX",US,29.4241,-98.4936,2/9/2020,
+Anhui,Mainland China,31.82571,117.2264,2/10/2020,830
+Beijing,Mainland China,40.18238,116.4142,2/10/2020,337
+Chongqing,Mainland China,30.05718,107.874,2/10/2020,486
+Fujian,Mainland China,26.07783,117.9895,2/10/2020,261
+Gansu,Mainland China,36.0611,103.8343,2/10/2020,86
+Guangdong,Mainland China,23.33841,113.422,2/10/2020,1159
+Guangxi,Mainland China,23.82908,108.7881,2/10/2020,210
+Guizhou,Mainland China,26.81536,106.8748,2/10/2020,109
+Hainan,Mainland China,19.19673,109.7455,2/10/2020,138
+Hebei,Mainland China,38.0428,114.5149,2/10/2020,218
+Heilongjiang,Mainland China,47.862,127.7622,2/10/2020,331
+Henan,Mainland China,33.88202,113.614,2/10/2020,1073
+Hubei,Mainland China,30.97564,112.2707,2/10/2020,31728
+Hunan,Mainland China,27.61041,111.7088,2/10/2020,879
+Inner Mongolia,Mainland China,44.09448,113.9456,2/10/2020,58
+Jiangsu,Mainland China,32.97027,119.464,2/10/2020,492
+Jiangxi,Mainland China,27.61401,115.7221,2/10/2020,771
+Jilin,Mainland China,43.66657,126.1917,2/10/2020,81
+Liaoning,Mainland China,41.29284,122.6086,2/10/2020,108
+Ningxia,Mainland China,37.26923,106.1655,2/10/2020,49
+Qinghai,Mainland China,35.65945,96.02564,2/10/2020,18
+Shaanxi,Mainland China,35.19165,108.8701,2/10/2020,213
+Shandong,Mainland China,36.34377,118.1529,2/10/2020,466
+Shanghai,Mainland China,31.20327,121.4554,2/10/2020,299
+Shanxi,Mainland China,37.57769,112.2922,2/10/2020,119
+Sichuan,Mainland China,30.61714,102.7103,2/10/2020,405
+Tianjin,Mainland China,39.29362,117.333,2/10/2020,95
+Tibet,Mainland China,30.1534,88.7879,2/10/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/10/2020,49
+Yunnan,Mainland China,24.97411,101.4868,2/10/2020,149
+Zhejiang,Mainland China,29.18251,120.0985,2/10/2020,1092
+,Thailand,13.7563,100.5018,2/10/2020,32
+,Japan,35.6762,139.6503,2/10/2020,26
+,South Korea,37.5665,126.978,2/10/2020,27
+Taiwan,Taiwan,23.6978,120.9605,2/10/2020,18
+"Seattle, WA",US,47.7511,-120.74,2/10/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/10/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/10/2020,1
+Macau,Macau,22.1987,113.5439,2/10/2020,10
+Hong Kong,Hong Kong,22.3193,114.1694,2/10/2020,38
+,Singapore,1.3521,103.8198,2/10/2020,45
+,Vietnam,21.0278,105.8342,2/10/2020,14
+,France,46.2276,2.2137,2/10/2020,11
+,Nepal,28.3949,84.124,2/10/2020,1
+,Malaysia,4.2105,101.9758,2/10/2020,18
+"Toronto, ON",Canada,43.6532,-79.3832,2/10/2020,2
+British Columbia,Canada,49.2827,-123.121,2/10/2020,4
+"Orange, CA",US,33.7879,-117.8531,2/10/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/10/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/10/2020,4
+Victoria,Australia,-37.8136,144.9631,2/10/2020,4
+Queensland,Australia,-27.4698,153.0251,2/10/2020,5
+,Cambodia,12.5657,104.991,2/10/2020,1
+,Sri Lanka,7.8731,80.7718,2/10/2020,1
+,Germany,51.1657,10.4515,2/10/2020,14
+,Finland,61.9241,25.7482,2/10/2020,1
+,Philippines,12.8797,121.774,2/10/2020,3
+,India,20.5937,78.9629,2/10/2020,3
+"London, ON",Canada,42.9849,-81.2453,2/10/2020,1
+,Italy,41.8719,12.5674,2/10/2020,3
+,UK,55.3781,-3.436,2/10/2020,8
+,Sweden,60.1282,18.6435,2/10/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/10/2020,2
+,Spain,40.4637,-3.7492,2/10/2020,2
+South Australia,Australia,-34.9285,138.6007,2/10/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/10/2020,1
+"San Benito, CA",US,36.5761,-120.9876,2/10/2020,2
+,Belgium,50.5039,4.4699,2/10/2020,1
+"Madison, WI",US,43.0731,-89.4012,2/10/2020,1
+Diamond Princess cruise ship,Others,35.4437,129.638,2/10/2020,135
+"San Diego County, CA",US,32.7157,-117.1611,2/10/2020,
+"San Antonio, TX",US,29.4241,-98.4936,2/10/2020,
+Anhui,Mainland China,31.82571,117.2264,2/11/2020,889
+Beijing,Mainland China,40.18238,116.4142,2/11/2020,342
+Chongqing,Mainland China,30.05718,107.874,2/11/2020,505
+Fujian,Mainland China,26.07783,117.9895,2/11/2020,272
+Gansu,Mainland China,36.0611,103.8343,2/11/2020,86
+Guangdong,Mainland China,23.33841,113.422,2/11/2020,1219
+Guangxi,Mainland China,23.82908,108.7881,2/11/2020,222
+Guizhou,Mainland China,26.81536,106.8748,2/11/2020,131
+Hainan,Mainland China,19.19673,109.7455,2/11/2020,151
+Hebei,Mainland China,38.0428,114.5149,2/11/2020,251
+Heilongjiang,Mainland China,47.862,127.7622,2/11/2020,378
+Henan,Mainland China,33.88202,113.614,2/11/2020,1135
+Hubei,Mainland China,30.97564,112.2707,2/11/2020,33366
+Hunan,Mainland China,27.61041,111.7088,2/11/2020,946
+Inner Mongolia,Mainland China,44.09448,113.9456,2/11/2020,58
+Jiangsu,Mainland China,32.97027,119.464,2/11/2020,543
+Jiangxi,Mainland China,27.61401,115.7221,2/11/2020,844
+Jilin,Mainland China,43.66657,126.1917,2/11/2020,83
+Liaoning,Mainland China,41.29284,122.6086,2/11/2020,116
+Ningxia,Mainland China,37.26923,106.1655,2/11/2020,53
+Qinghai,Mainland China,35.65945,96.02564,2/11/2020,18
+Shaanxi,Mainland China,35.19165,108.8701,2/11/2020,219
+Shandong,Mainland China,36.34377,118.1529,2/11/2020,497
+Shanghai,Mainland China,31.20327,121.4554,2/11/2020,306
+Shanxi,Mainland China,37.57769,112.2922,2/11/2020,124
+Sichuan,Mainland China,30.61714,102.7103,2/11/2020,436
+Tianjin,Mainland China,39.29362,117.333,2/11/2020,106
+Tibet,Mainland China,30.1534,88.7879,2/11/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/11/2020,59
+Yunnan,Mainland China,24.97411,101.4868,2/11/2020,154
+Zhejiang,Mainland China,29.18251,120.0985,2/11/2020,1131
+,Thailand,13.7563,100.5018,2/11/2020,33
+,Japan,35.6762,139.6503,2/11/2020,26
+,South Korea,37.5665,126.978,2/11/2020,28
+Taiwan,Taiwan,23.6978,120.9605,2/11/2020,18
+"Seattle, WA",US,47.7511,-120.74,2/11/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/11/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/11/2020,1
+Macau,Macau,22.1987,113.5439,2/11/2020,10
+Hong Kong,Hong Kong,22.3193,114.1694,2/11/2020,49
+,Singapore,1.3521,103.8198,2/11/2020,47
+,Vietnam,21.0278,105.8342,2/11/2020,15
+,France,46.2276,2.2137,2/11/2020,11
+,Nepal,28.3949,84.124,2/11/2020,1
+,Malaysia,4.2105,101.9758,2/11/2020,18
+"Toronto, ON",Canada,43.6532,-79.3832,2/11/2020,2
+British Columbia,Canada,49.2827,-123.121,2/11/2020,4
+"Orange, CA",US,33.7879,-117.8531,2/11/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/11/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/11/2020,4
+Victoria,Australia,-37.8136,144.9631,2/11/2020,4
+Queensland,Australia,-27.4698,153.0251,2/11/2020,5
+,Cambodia,12.5657,104.991,2/11/2020,1
+,Sri Lanka,7.8731,80.7718,2/11/2020,1
+,Germany,51.1657,10.4515,2/11/2020,16
+,Finland,61.9241,25.7482,2/11/2020,1
+,Philippines,12.8797,121.774,2/11/2020,3
+,India,20.5937,78.9629,2/11/2020,3
+"London, ON",Canada,42.9849,-81.2453,2/11/2020,1
+,Italy,41.8719,12.5674,2/11/2020,3
+,UK,55.3781,-3.436,2/11/2020,8
+,Sweden,60.1282,18.6435,2/11/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/11/2020,2
+,Spain,40.4637,-3.7492,2/11/2020,2
+South Australia,Australia,-34.9285,138.6007,2/11/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/11/2020,1
+"San Benito, CA",US,36.5761,-120.9876,2/11/2020,2
+,Belgium,50.5039,4.4699,2/11/2020,1
+"Madison, WI",US,43.0731,-89.4012,2/11/2020,1
+Diamond Princess cruise ship,Others,35.4437,129.638,2/11/2020,135
+"San Diego County, CA",US,32.7157,-117.1611,2/11/2020,1
+"San Antonio, TX",US,29.4241,-98.4936,2/11/2020,
+Anhui,Mainland China,31.82571,117.2264,2/12/2020,910
+Beijing,Mainland China,40.18238,116.4142,2/12/2020,366
+Chongqing,Mainland China,30.05718,107.874,2/12/2020,518
+Fujian,Mainland China,26.07783,117.9895,2/12/2020,279
+Gansu,Mainland China,36.0611,103.8343,2/12/2020,87
+Guangdong,Mainland China,23.33841,113.422,2/12/2020,1241
+Guangxi,Mainland China,23.82908,108.7881,2/12/2020,222
+Guizhou,Mainland China,26.81536,106.8748,2/12/2020,135
+Hainan,Mainland China,19.19673,109.7455,2/12/2020,157
+Hebei,Mainland China,38.0428,114.5149,2/12/2020,265
+Heilongjiang,Mainland China,47.862,127.7622,2/12/2020,395
+Henan,Mainland China,33.88202,113.614,2/12/2020,1169
+Hubei,Mainland China,30.97564,112.2707,2/12/2020,48206
+Hunan,Mainland China,27.61041,111.7088,2/12/2020,968
+Inner Mongolia,Mainland China,44.09448,113.9456,2/12/2020,61
+Jiangsu,Mainland China,32.97027,119.464,2/12/2020,570
+Jiangxi,Mainland China,27.61401,115.7221,2/12/2020,872
+Jilin,Mainland China,43.66657,126.1917,2/12/2020,84
+Liaoning,Mainland China,41.29284,122.6086,2/12/2020,116
+Ningxia,Mainland China,37.26923,106.1655,2/12/2020,64
+Qinghai,Mainland China,35.65945,96.02564,2/12/2020,18
+Shaanxi,Mainland China,35.19165,108.8701,2/12/2020,229
+Shandong,Mainland China,36.34377,118.1529,2/12/2020,506
+Shanghai,Mainland China,31.20327,121.4554,2/12/2020,313
+Shanxi,Mainland China,37.57769,112.2922,2/12/2020,126
+Sichuan,Mainland China,30.61714,102.7103,2/12/2020,451
+Tianjin,Mainland China,39.29362,117.333,2/12/2020,113
+Tibet,Mainland China,30.1534,88.7879,2/12/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/12/2020,63
+Yunnan,Mainland China,24.97411,101.4868,2/12/2020,155
+Zhejiang,Mainland China,29.18251,120.0985,2/12/2020,1145
+,Thailand,13.7563,100.5018,2/12/2020,33
+,Japan,35.6762,139.6503,2/12/2020,28
+,South Korea,37.5665,126.978,2/12/2020,28
+Taiwan,Taiwan,23.6978,120.9605,2/12/2020,18
+"Seattle, WA",US,47.7511,-120.74,2/12/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/12/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/12/2020,1
+Macau,Macau,22.1987,113.5439,2/12/2020,10
+Hong Kong,Hong Kong,22.3193,114.1694,2/12/2020,50
+,Singapore,1.3521,103.8198,2/12/2020,50
+,Vietnam,21.0278,105.8342,2/12/2020,15
+,France,46.2276,2.2137,2/12/2020,11
+,Nepal,28.3949,84.124,2/12/2020,1
+,Malaysia,4.2105,101.9758,2/12/2020,18
+"Toronto, ON",Canada,43.6532,-79.3832,2/12/2020,2
+British Columbia,Canada,49.2827,-123.121,2/12/2020,4
+"Orange, CA",US,33.7879,-117.8531,2/12/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/12/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/12/2020,4
+Victoria,Australia,-37.8136,144.9631,2/12/2020,4
+Queensland,Australia,-27.4698,153.0251,2/12/2020,5
+,Cambodia,12.5657,104.991,2/12/2020,1
+,Sri Lanka,7.8731,80.7718,2/12/2020,1
+,Germany,51.1657,10.4515,2/12/2020,16
+,Finland,61.9241,25.7482,2/12/2020,1
+,Philippines,12.8797,121.774,2/12/2020,3
+,India,20.5937,78.9629,2/12/2020,3
+"London, ON",Canada,42.9849,-81.2453,2/12/2020,1
+,Italy,41.8719,12.5674,2/12/2020,3
+,UK,55.3781,-3.436,2/12/2020,9
+,Sweden,60.1282,18.6435,2/12/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/12/2020,2
+,Spain,40.4637,-3.7492,2/12/2020,2
+South Australia,Australia,-34.9285,138.6007,2/12/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/12/2020,1
+"San Benito, CA",US,36.5761,-120.9876,2/12/2020,2
+,Belgium,50.5039,4.4699,2/12/2020,1
+"Madison, WI",US,43.0731,-89.4012,2/12/2020,1
+Diamond Princess cruise ship,Others,35.4437,129.638,2/12/2020,175
+"San Diego County, CA",US,32.7157,-117.1611,2/12/2020,1
+"San Antonio, TX",US,29.4241,-98.4936,2/12/2020,
+Anhui,Mainland China,31.82571,117.2264,2/13/2020,934
+Beijing,Mainland China,40.18238,116.4142,2/13/2020,366
+Chongqing,Mainland China,30.05718,107.874,2/13/2020,529
+Fujian,Mainland China,26.07783,117.9895,2/13/2020,281
+Gansu,Mainland China,36.0611,103.8343,2/13/2020,90
+Guangdong,Mainland China,23.33841,113.422,2/13/2020,1261
+Guangxi,Mainland China,23.82908,108.7881,2/13/2020,226
+Guizhou,Mainland China,26.81536,106.8748,2/13/2020,140
+Hainan,Mainland China,19.19673,109.7455,2/13/2020,158
+Hebei,Mainland China,38.0428,114.5149,2/13/2020,283
+Heilongjiang,Mainland China,47.862,127.7622,2/13/2020,418
+Henan,Mainland China,33.88202,113.614,2/13/2020,1184
+Hubei,Mainland China,30.97564,112.2707,2/13/2020,51986
+Hunan,Mainland China,27.61041,111.7088,2/13/2020,988
+Inner Mongolia,Mainland China,44.09448,113.9456,2/13/2020,65
+Jiangsu,Mainland China,32.97027,119.464,2/13/2020,593
+Jiangxi,Mainland China,27.61401,115.7221,2/13/2020,900
+Jilin,Mainland China,43.66657,126.1917,2/13/2020,86
+Liaoning,Mainland China,41.29284,122.6086,2/13/2020,117
+Ningxia,Mainland China,37.26923,106.1655,2/13/2020,67
+Qinghai,Mainland China,35.65945,96.02564,2/13/2020,18
+Shaanxi,Mainland China,35.19165,108.8701,2/13/2020,229
+Shandong,Mainland China,36.34377,118.1529,2/13/2020,519
+Shanghai,Mainland China,31.20327,121.4554,2/13/2020,318
+Shanxi,Mainland China,37.57769,112.2922,2/13/2020,126
+Sichuan,Mainland China,30.61714,102.7103,2/13/2020,463
+Tianjin,Mainland China,39.29362,117.333,2/13/2020,119
+Tibet,Mainland China,30.1534,88.7879,2/13/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/13/2020,65
+Yunnan,Mainland China,24.97411,101.4868,2/13/2020,156
+Zhejiang,Mainland China,29.18251,120.0985,2/13/2020,1155
+,Thailand,13.7563,100.5018,2/13/2020,33
+,Japan,35.6762,139.6503,2/13/2020,28
+,South Korea,37.5665,126.978,2/13/2020,28
+Taiwan,Taiwan,23.6978,120.9605,2/13/2020,18
+"Seattle, WA",US,47.7511,-120.74,2/13/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/13/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/13/2020,1
+Macau,Macau,22.1987,113.5439,2/13/2020,10
+Hong Kong,Hong Kong,22.3193,114.1694,2/13/2020,53
+,Singapore,1.3521,103.8198,2/13/2020,58
+,Vietnam,21.0278,105.8342,2/13/2020,16
+,France,46.2276,2.2137,2/13/2020,11
+,Nepal,28.3949,84.124,2/13/2020,1
+,Malaysia,4.2105,101.9758,2/13/2020,19
+"Toronto, ON",Canada,43.6532,-79.3832,2/13/2020,2
+British Columbia,Canada,49.2827,-123.121,2/13/2020,4
+"Orange, CA",US,33.7879,-117.8531,2/13/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/13/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/13/2020,4
+Victoria,Australia,-37.8136,144.9631,2/13/2020,4
+Queensland,Australia,-27.4698,153.0251,2/13/2020,5
+,Cambodia,12.5657,104.991,2/13/2020,1
+,Sri Lanka,7.8731,80.7718,2/13/2020,1
+,Germany,51.1657,10.4515,2/13/2020,16
+,Finland,61.9241,25.7482,2/13/2020,1
+,Philippines,12.8797,121.774,2/13/2020,3
+,India,20.5937,78.9629,2/13/2020,3
+"London, ON",Canada,42.9849,-81.2453,2/13/2020,1
+,Italy,41.8719,12.5674,2/13/2020,3
+,UK,55.3781,-3.436,2/13/2020,9
+,Sweden,60.1282,18.6435,2/13/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/13/2020,2
+,Spain,40.4637,-3.7492,2/13/2020,2
+South Australia,Australia,-34.9285,138.6007,2/13/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/13/2020,1
+"San Benito, CA",US,36.5761,-120.9876,2/13/2020,2
+,Belgium,50.5039,4.4699,2/13/2020,1
+"Madison, WI",US,43.0731,-89.4012,2/13/2020,1
+Diamond Princess cruise ship,Others,35.4437,129.638,2/13/2020,218
+"San Diego County, CA",US,32.7157,-117.1611,2/13/2020,2
+"San Antonio, TX",US,29.4241,-98.4936,2/13/2020,1
+Anhui,Mainland China,31.82571,117.2264,2/14/2020,934
+Beijing,Mainland China,40.18238,116.4142,2/14/2020,372
+Chongqing,Mainland China,30.05718,107.874,2/14/2020,532
+Fujian,Mainland China,26.07783,117.9895,2/14/2020,281
+Gansu,Mainland China,36.0611,103.8343,2/14/2020,90
+Guangdong,Mainland China,23.33841,113.422,2/14/2020,1261
+Guangxi,Mainland China,23.82908,108.7881,2/14/2020,226
+Guizhou,Mainland China,26.81536,106.8748,2/14/2020,140
+Hainan,Mainland China,19.19673,109.7455,2/14/2020,159
+Hebei,Mainland China,38.0428,114.5149,2/14/2020,283
+Heilongjiang,Mainland China,47.862,127.7622,2/14/2020,419
+Henan,Mainland China,33.88202,113.614,2/14/2020,1184
+Hubei,Mainland China,30.97564,112.2707,2/14/2020,51986
+Hunan,Mainland China,27.61041,111.7088,2/14/2020,988
+Inner Mongolia,Mainland China,44.09448,113.9456,2/14/2020,65
+Jiangsu,Mainland China,32.97027,119.464,2/14/2020,593
+Jiangxi,Mainland China,27.61401,115.7221,2/14/2020,900
+Jilin,Mainland China,43.66657,126.1917,2/14/2020,86
+Liaoning,Mainland China,41.29284,122.6086,2/14/2020,119
+Ningxia,Mainland China,37.26923,106.1655,2/14/2020,67
+Qinghai,Mainland China,35.65945,96.02564,2/14/2020,18
+Shaanxi,Mainland China,35.19165,108.8701,2/14/2020,230
+Shandong,Mainland China,36.34377,118.1529,2/14/2020,523
+Shanghai,Mainland China,31.20327,121.4554,2/14/2020,318
+Shanxi,Mainland China,37.57769,112.2922,2/14/2020,126
+Sichuan,Mainland China,30.61714,102.7103,2/14/2020,463
+Tianjin,Mainland China,39.29362,117.333,2/14/2020,120
+Tibet,Mainland China,30.1534,88.7879,2/14/2020,1
+Xinjiang,Mainland China,41.11981,85.17822,2/14/2020,65
+Yunnan,Mainland China,24.97411,101.4868,2/14/2020,162
+Zhejiang,Mainland China,29.18251,120.0985,2/14/2020,1155
+,Thailand,13.7563,100.5018,2/14/2020,33
+,Japan,35.6762,139.6503,2/14/2020,29
+,South Korea,37.5665,126.978,2/14/2020,28
+Taiwan,Taiwan,23.6978,120.9605,2/14/2020,18
+"Seattle, WA",US,47.7511,-120.74,2/14/2020,1
+"Chicago, IL",US,40.6331,-89.3985,2/14/2020,2
+"Tempe, AZ",US,34.0489,-111.094,2/14/2020,1
+Macau,Macau,22.1987,113.5439,2/14/2020,10
+Hong Kong,Hong Kong,22.3193,114.1694,2/14/2020,56
+,Singapore,1.3521,103.8198,2/14/2020,67
+,Vietnam,21.0278,105.8342,2/14/2020,16
+,France,46.2276,2.2137,2/14/2020,11
+,Nepal,28.3949,84.124,2/14/2020,1
+,Malaysia,4.2105,101.9758,2/14/2020,19
+"Toronto, ON",Canada,43.6532,-79.3832,2/14/2020,2
+British Columbia,Canada,49.2827,-123.121,2/14/2020,4
+"Orange, CA",US,33.7879,-117.8531,2/14/2020,1
+"Los Angeles, CA",US,34.0522,-118.2437,2/14/2020,1
+New South Wales,Australia,-33.8688,151.2093,2/14/2020,4
+Victoria,Australia,-37.8136,144.9631,2/14/2020,4
+Queensland,Australia,-27.4698,153.0251,2/14/2020,5
+,Cambodia,12.5657,104.991,2/14/2020,1
+,Sri Lanka,7.8731,80.7718,2/14/2020,1
+,Germany,51.1657,10.4515,2/14/2020,16
+,Finland,61.9241,25.7482,2/14/2020,1
+,Philippines,12.8797,121.774,2/14/2020,3
+,India,20.5937,78.9629,2/14/2020,3
+"London, ON",Canada,42.9849,-81.2453,2/14/2020,1
+,Italy,41.8719,12.5674,2/14/2020,3
+,UK,55.3781,-3.436,2/14/2020,9
+,Sweden,60.1282,18.6435,2/14/2020,1
+"Santa Clara, CA",US,37.3541,-121.9552,2/14/2020,2
+,Spain,40.4637,-3.7492,2/14/2020,2
+South Australia,Australia,-34.9285,138.6007,2/14/2020,2
+"Boston, MA",US,42.3601,-71.0589,2/14/2020,1
+"San Benito, CA",US,36.5761,-120.9876,2/14/2020,2
+,Belgium,50.5039,4.4699,2/14/2020,1
+"Madison, WI",US,43.0731,-89.4012,2/14/2020,1
+Diamond Princess cruise ship,Others,35.4437,129.638,2/14/2020,218
+"San Diego County, CA",US,32.7157,-117.1611,2/14/2020,2
+"San Antonio, TX",US,29.4241,-98.4936,2/14/2020,1
