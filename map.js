@@ -166,7 +166,8 @@ d3.json('asiageo.json').then(function(data) {
                           .duration(200)
                           .style("opacity", .9)
                           .style('border-color', 'grey' );
-                        tooltip.html(d['Province/State'] + "<br/>" + d['Date'] + "<br/>" + "Number of Cases: " + d['Number of Cases'])
+                        tooltip.html(d['Province/State'] + "<br/>" + d['Country/Region'] + "<br/>" + d['Date']
+                                    + "<br/>" + "Number of Cases: " + d['Number of Cases'])
                           .style("left", (d3.event.pageX) + "px")
                           .style("top", (d3.event.pageY - 28) + "px");
                       })
