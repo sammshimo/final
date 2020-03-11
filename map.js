@@ -40,6 +40,7 @@ let tooltip = d3.select("body").append("div")
 const g = svg.append('g')
 
 let numCases = 0;
+let date = '1/21/2020';
 
 d3.json('asiageo.json').then(function(data) {
 
@@ -69,7 +70,7 @@ d3.json('asiageo.json').then(function(data) {
         .text("Number of Confirmed Cases Over Time")
         .attr('fill', 'grey');
 
-        let dateText = filter.append('p').text('Date: ').style('font-size', '10pt').attr('id', 'date')
+        filter.append('p').text('Date: ').style('font-size', '10pt').attr('id', 'date')
         filter.append('p').text('Filter by number of cases:').style('font-size', '10pt')
         let num = ['0', '100', '250', '400', '650', '1000'];
         let numFilter = filter.append('select').attr('id', 'num-filter');
@@ -83,7 +84,7 @@ d3.json('asiageo.json').then(function(data) {
     
         numFilter.on('change', (d) => {
             numCases = d3.select('#num-filter').property('value');
-            plotData(pointData, '2/14/2020');
+            plotData(pointData, date);
         });
 
         filter.append('button')
@@ -98,7 +99,7 @@ d3.json('asiageo.json').then(function(data) {
 
         // animates map
         function animate(pointData) {
-            document.getElementById('num-filter').disabled = true;
+            // document.getElementById('num-filter').disabled = true;
             document.getElementById('reset').disabled = true;
 
             let dates = ['1/21/2020', '1/22/2020', '1/23/2020', '1/24/2020', '1/25/2020', '1/26/2020', '1/27/2020',
@@ -107,18 +108,18 @@ d3.json('asiageo.json').then(function(data) {
             '2/13/2020', '2/14/2020'];
 
             for (let i = 0; i < dates.length; i++) {
-                setTimeout(function() { plotData(pointData, dates[i]) }, 
-                1000*(i))
+                setTimeout(function() { date = dates[i]; plotData(pointData); 
+                }, 1000*(i))
             }
 
             setTimeout(function () { 
-                document.getElementById('num-filter').disabled = false; 
+                // document.getElementById('num-filter').disabled = false; 
                 document.getElementById('reset').disabled = false;
             }, 1000 * dates.length);
         }
 
         // plots circles on the map
-       function plotData(pointData, date) {
+       function plotData(pointData) {
 
             g.selectAll('circle').remove();
 
