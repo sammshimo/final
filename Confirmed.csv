@@ -1,4 +1,5 @@
 ﻿Province/State,Country/Region,Lat,Long,Date,Number of Cases
+Hubei,Mainland China,30.97564,112.2707,1/21/2020,270
 Anhui,Mainland China,31.82571,117.2264,1/21/2020,
 Beijing,Mainland China,40.18238,116.4142,1/21/2020,10
 Chongqing,Mainland China,30.05718,107.874,1/21/2020,5
@@ -11,7 +12,6 @@ Hainan,Mainland China,19.19673,109.7455,1/21/2020,
 Hebei,Mainland China,38.0428,114.5149,1/21/2020,
 Heilongjiang,Mainland China,47.862,127.7622,1/21/2020,
 Henan,Mainland China,33.88202,113.614,1/21/2020,
-Hubei,Mainland China,30.97564,112.2707,1/21/2020,270
 Hunan,Mainland China,27.61041,111.7088,1/21/2020,1
 Inner Mongolia,Mainland China,44.09448,113.9456,1/21/2020,
 Jiangsu,Mainland China,32.97027,119.464,1/21/2020,
@@ -72,6 +72,7 @@ South Australia,Australia,-34.9285,138.6007,1/21/2020,
 Diamond Princess cruise ship,Others,35.4437,129.638,1/21/2020,
 "San Diego County, CA",US,32.7157,-117.1611,1/21/2020,
 "San Antonio, TX",US,29.4241,-98.4936,1/21/2020,
+Hubei,Mainland China,30.97564,112.2707,1/22/2020,444
 Anhui,Mainland China,31.82571,117.2264,1/22/2020,1
 Beijing,Mainland China,40.18238,116.4142,1/22/2020,14
 Chongqing,Mainland China,30.05718,107.874,1/22/2020,6
@@ -84,7 +85,6 @@ Hainan,Mainland China,19.19673,109.7455,1/22/2020,4
 Hebei,Mainland China,38.0428,114.5149,1/22/2020,1
 Heilongjiang,Mainland China,47.862,127.7622,1/22/2020,
 Henan,Mainland China,33.88202,113.614,1/22/2020,5
-Hubei,Mainland China,30.97564,112.2707,1/22/2020,444
 Hunan,Mainland China,27.61041,111.7088,1/22/2020,4
 Inner Mongolia,Mainland China,44.09448,113.9456,1/22/2020,
 Jiangsu,Mainland China,32.97027,119.464,1/22/2020,1
@@ -145,6 +145,7 @@ South Australia,Australia,-34.9285,138.6007,1/22/2020,
 Diamond Princess cruise ship,Others,35.4437,129.638,1/22/2020,
 "San Diego County, CA",US,32.7157,-117.1611,1/22/2020,
 "San Antonio, TX",US,29.4241,-98.4936,1/22/2020,
+Hubei,Mainland China,30.97564,112.2707,1/23/2020,444
 Anhui,Mainland China,31.82571,117.2264,1/23/2020,9
 Beijing,Mainland China,40.18238,116.4142,1/23/2020,22
 Chongqing,Mainland China,30.05718,107.874,1/23/2020,9
@@ -157,7 +158,6 @@ Hainan,Mainland China,19.19673,109.7455,1/23/2020,5
 Hebei,Mainland China,38.0428,114.5149,1/23/2020,1
 Heilongjiang,Mainland China,47.862,127.7622,1/23/2020,2
 Henan,Mainland China,33.88202,113.614,1/23/2020,5
-Hubei,Mainland China,30.97564,112.2707,1/23/2020,444
 Hunan,Mainland China,27.61041,111.7088,1/23/2020,9
 Inner Mongolia,Mainland China,44.09448,113.9456,1/23/2020,
 Jiangsu,Mainland China,32.97027,119.464,1/23/2020,5
@@ -218,6 +218,7 @@ South Australia,Australia,-34.9285,138.6007,1/23/2020,
 Diamond Princess cruise ship,Others,35.4437,129.638,1/23/2020,
 "San Diego County, CA",US,32.7157,-117.1611,1/23/2020,
 "San Antonio, TX",US,29.4241,-98.4936,1/23/2020,
+Hubei,Mainland China,30.97564,112.2707,1/24/2020,549
 Anhui,Mainland China,31.82571,117.2264,1/24/2020,15
 Beijing,Mainland China,40.18238,116.4142,1/24/2020,36
 Chongqing,Mainland China,30.05718,107.874,1/24/2020,27
@@ -230,7 +231,6 @@ Hainan,Mainland China,19.19673,109.7455,1/24/2020,8
 Hebei,Mainland China,38.0428,114.5149,1/24/2020,2
 Heilongjiang,Mainland China,47.862,127.7622,1/24/2020,4
 Henan,Mainland China,33.88202,113.614,1/24/2020,9
-Hubei,Mainland China,30.97564,112.2707,1/24/2020,549
 Hunan,Mainland China,27.61041,111.7088,1/24/2020,24
 Inner Mongolia,Mainland China,44.09448,113.9456,1/24/2020,1
 Jiangsu,Mainland China,32.97027,119.464,1/24/2020,9
@@ -292,6 +292,7 @@ South Australia,Australia,-34.9285,138.6007,1/24/2020,
 Diamond Princess cruise ship,Others,35.4437,129.638,1/24/2020,
 "San Diego County, CA",US,32.7157,-117.1611,1/24/2020,
 "San Antonio, TX",US,29.4241,-98.4936,1/24/2020,
+Hubei,Mainland China,30.97564,112.2707,1/25/2020,1052
 Anhui,Mainland China,31.82571,117.2264,1/25/2020,60
 Beijing,Mainland China,40.18238,116.4142,1/25/2020,51
 Chongqing,Mainland China,30.05718,107.874,1/25/2020,75
@@ -304,7 +305,6 @@ Hainan,Mainland China,19.19673,109.7455,1/25/2020,19
 Hebei,Mainland China,38.0428,114.5149,1/25/2020,13
 Heilongjiang,Mainland China,47.862,127.7622,1/25/2020,15
 Henan,Mainland China,33.88202,113.614,1/25/2020,83
-Hubei,Mainland China,30.97564,112.2707,1/25/2020,1052
 Hunan,Mainland China,27.61041,111.7088,1/25/2020,69
 Inner Mongolia,Mainland China,44.09448,113.9456,1/25/2020,7
 Jiangsu,Mainland China,32.97027,119.464,1/25/2020,31
@@ -366,6 +366,7 @@ South Australia,Australia,-34.9285,138.6007,1/25/2020,
 Diamond Princess cruise ship,Others,35.4437,129.638,1/25/2020,
 "San Diego County, CA",US,32.7157,-117.1611,1/25/2020,
 "San Antonio, TX",US,29.4241,-98.4936,1/25/2020,
+Hubei,Mainland China,30.97564,112.2707,1/26/2020,1423
 Anhui,Mainland China,31.82571,117.2264,1/26/2020,70
 Beijing,Mainland China,40.18238,116.4142,1/26/2020,68
 Chongqing,Mainland China,30.05718,107.874,1/26/2020,110
@@ -378,7 +379,6 @@ Hainan,Mainland China,19.19673,109.7455,1/26/2020,22
 Hebei,Mainland China,38.0428,114.5149,1/26/2020,18
 Heilongjiang,Mainland China,47.862,127.7622,1/26/2020,21
 Henan,Mainland China,33.88202,113.614,1/26/2020,128
-Hubei,Mainland China,30.97564,112.2707,1/26/2020,1423
 Hunan,Mainland China,27.61041,111.7088,1/26/2020,100
 Inner Mongolia,Mainland China,44.09448,113.9456,1/26/2020,11
 Jiangsu,Mainland China,32.97027,119.464,1/26/2020,47
@@ -440,6 +440,7 @@ South Australia,Australia,-34.9285,138.6007,1/26/2020,
 Diamond Princess cruise ship,Others,35.4437,129.638,1/26/2020,
 "San Diego County, CA",US,32.7157,-117.1611,1/26/2020,
 "San Antonio, TX",US,29.4241,-98.4936,1/26/2020,
+Hubei,Mainland China,30.97564,112.2707,1/27/2020,2714
 Anhui,Mainland China,31.82571,117.2264,1/27/2020,106
 Beijing,Mainland China,40.18238,116.4142,1/27/2020,80
 Chongqing,Mainland China,30.05718,107.874,1/27/2020,132
@@ -452,7 +453,6 @@ Hainan,Mainland China,19.19673,109.7455,1/27/2020,33
 Hebei,Mainland China,38.0428,114.5149,1/27/2020,33
 Heilongjiang,Mainland China,47.862,127.7622,1/27/2020,30
 Henan,Mainland China,33.88202,113.614,1/27/2020,168
-Hubei,Mainland China,30.97564,112.2707,1/27/2020,2714
 Hunan,Mainland China,27.61041,111.7088,1/27/2020,100
 Inner Mongolia,Mainland China,44.09448,113.9456,1/27/2020,11
 Jiangsu,Mainland China,32.97027,119.464,1/27/2020,70
@@ -514,6 +514,7 @@ South Australia,Australia,-34.9285,138.6007,1/27/2020,
 Diamond Princess cruise ship,Others,35.4437,129.638,1/27/2020,
 "San Diego County, CA",US,32.7157,-117.1611,1/27/2020,
 "San Antonio, TX",US,29.4241,-98.4936,1/27/2020,
+Hubei,Mainland China,30.97564,112.2707,1/28/2020,3554
 Anhui,Mainland China,31.82571,117.2264,1/28/2020,152
 Beijing,Mainland China,40.18238,116.4142,1/28/2020,91
 Chongqing,Mainland China,30.05718,107.874,1/28/2020,147
@@ -526,7 +527,6 @@ Hainan,Mainland China,19.19673,109.7455,1/28/2020,43
 Hebei,Mainland China,38.0428,114.5149,1/28/2020,48
 Heilongjiang,Mainland China,47.862,127.7622,1/28/2020,37
 Henan,Mainland China,33.88202,113.614,1/28/2020,206
-Hubei,Mainland China,30.97564,112.2707,1/28/2020,3554
 Hunan,Mainland China,27.61041,111.7088,1/28/2020,221
 Inner Mongolia,Mainland China,44.09448,113.9456,1/28/2020,16
 Jiangsu,Mainland China,32.97027,119.464,1/28/2020,99
@@ -588,6 +588,7 @@ South Australia,Australia,-34.9285,138.6007,1/28/2020,
 Diamond Princess cruise ship,Others,35.4437,129.638,1/28/2020,
 "San Diego County, CA",US,32.7157,-117.1611,1/28/2020,
 "San Antonio, TX",US,29.4241,-98.4936,1/28/2020,
+Hubei,Mainland China,30.97564,112.2707,1/29/2020,4586
 Anhui,Mainland China,31.82571,117.2264,1/29/2020,200
 Beijing,Mainland China,40.18238,116.4142,1/29/2020,111
 Chongqing,Mainland China,30.05718,107.874,1/29/2020,165
@@ -600,7 +601,6 @@ Hainan,Mainland China,19.19673,109.7455,1/29/2020,43
 Hebei,Mainland China,38.0428,114.5149,1/29/2020,65
 Heilongjiang,Mainland China,47.862,127.7622,1/29/2020,43
 Henan,Mainland China,33.88202,113.614,1/29/2020,278
-Hubei,Mainland China,30.97564,112.2707,1/29/2020,4586
 Hunan,Mainland China,27.61041,111.7088,1/29/2020,277
 Inner Mongolia,Mainland China,44.09448,113.9456,1/29/2020,16
 Jiangsu,Mainland China,32.97027,119.464,1/29/2020,129
@@ -661,6 +661,7 @@ South Australia,Australia,-34.9285,138.6007,1/29/2020,
 Diamond Princess cruise ship,Others,35.4437,129.638,1/29/2020,
 "San Diego County, CA",US,32.7157,-117.1611,1/29/2020,
 "San Antonio, TX",US,29.4241,-98.4936,1/29/2020,
+Hubei,Mainland China,30.97564,112.2707,1/30/2020,4903
 Anhui,Mainland China,31.82571,117.2264,1/30/2020,200
 Beijing,Mainland China,40.18238,116.4142,1/30/2020,114
 Chongqing,Mainland China,30.05718,107.874,1/30/2020,182
@@ -673,7 +674,6 @@ Hainan,Mainland China,19.19673,109.7455,1/30/2020,46
 Hebei,Mainland China,38.0428,114.5149,1/30/2020,65
 Heilongjiang,Mainland China,47.862,127.7622,1/30/2020,44
 Henan,Mainland China,33.88202,113.614,1/30/2020,278
-Hubei,Mainland China,30.97564,112.2707,1/30/2020,4903
 Hunan,Mainland China,27.61041,111.7088,1/30/2020,277
 Inner Mongolia,Mainland China,44.09448,113.9456,1/30/2020,19
 Jiangsu,Mainland China,32.97027,119.464,1/30/2020,129
@@ -734,6 +734,7 @@ South Australia,Australia,-34.9285,138.6007,1/30/2020,
 Diamond Princess cruise ship,Others,35.4437,129.638,1/30/2020,
 "San Diego County, CA",US,32.7157,-117.1611,1/30/2020,
 "San Antonio, TX",US,29.4241,-98.4936,1/30/2020,
+Hubei,Mainland China,30.97564,112.2707,1/31/2020,5806
 Anhui,Mainland China,31.82571,117.2264,1/31/2020,237
 Beijing,Mainland China,40.18238,116.4142,1/31/2020,139
 Chongqing,Mainland China,30.05718,107.874,1/31/2020,211
@@ -746,7 +747,6 @@ Hainan,Mainland China,19.19673,109.7455,1/31/2020,52
 Hebei,Mainland China,38.0428,114.5149,1/31/2020,82
 Heilongjiang,Mainland China,47.862,127.7622,1/31/2020,59
 Henan,Mainland China,33.88202,113.614,1/31/2020,352
-Hubei,Mainland China,30.97564,112.2707,1/31/2020,5806
 Hunan,Mainland China,27.61041,111.7088,1/31/2020,332
 Inner Mongolia,Mainland China,44.09448,113.9456,1/31/2020,20
 Jiangsu,Mainland China,32.97027,119.464,1/31/2020,168
@@ -806,6 +806,7 @@ South Australia,Australia,-34.9285,138.6007,1/31/2020,
 Diamond Princess cruise ship,Others,35.4437,129.638,1/31/2020,
 "San Diego County, CA",US,32.7157,-117.1611,1/31/2020,
 "San Antonio, TX",US,29.4241,-98.4936,1/31/2020,
+Hubei,Mainland China,30.97564,112.2707,2/1/2020,7153
 Anhui,Mainland China,31.82571,117.2264,2/1/2020,297
 Beijing,Mainland China,40.18238,116.4142,2/1/2020,168
 Chongqing,Mainland China,30.05718,107.874,2/1/2020,247
@@ -818,7 +819,6 @@ Hainan,Mainland China,19.19673,109.7455,2/1/2020,62
 Hebei,Mainland China,38.0428,114.5149,2/1/2020,96
 Heilongjiang,Mainland China,47.862,127.7622,2/1/2020,80
 Henan,Mainland China,33.88202,113.614,2/1/2020,422
-Hubei,Mainland China,30.97564,112.2707,2/1/2020,7153
 Hunan,Mainland China,27.61041,111.7088,2/1/2020,389
 Inner Mongolia,Mainland China,44.09448,113.9456,2/1/2020,23
 Jiangsu,Mainland China,32.97027,119.464,2/1/2020,202
@@ -878,6 +878,7 @@ South Australia,Australia,-34.9285,138.6007,2/1/2020,2
 Diamond Princess cruise ship,Others,35.4437,129.638,2/1/2020,
 "San Diego County, CA",US,32.7157,-117.1611,2/1/2020,
 "San Antonio, TX",US,29.4241,-98.4936,2/1/2020,
+Hubei,Mainland China,30.97564,112.2707,2/2/2020,11177
 Anhui,Mainland China,31.82571,117.2264,2/2/2020,408
 Beijing,Mainland China,40.18238,116.4142,2/2/2020,191
 Chongqing,Mainland China,30.05718,107.874,2/2/2020,300
@@ -890,7 +891,6 @@ Hainan,Mainland China,19.19673,109.7455,2/2/2020,71
 Hebei,Mainland China,38.0428,114.5149,2/2/2020,113
 Heilongjiang,Mainland China,47.862,127.7622,2/2/2020,95
 Henan,Mainland China,33.88202,113.614,2/2/2020,566
-Hubei,Mainland China,30.97564,112.2707,2/2/2020,11177
 Hunan,Mainland China,27.61041,111.7088,2/2/2020,521
 Inner Mongolia,Mainland China,44.09448,113.9456,2/2/2020,27
 Jiangsu,Mainland China,32.97027,119.464,2/2/2020,271
@@ -950,6 +950,7 @@ South Australia,Australia,-34.9285,138.6007,2/2/2020,2
 Diamond Princess cruise ship,Others,35.4437,129.638,2/2/2020,
 "San Diego County, CA",US,32.7157,-117.1611,2/2/2020,
 "San Antonio, TX",US,29.4241,-98.4936,2/2/2020,
+Hubei,Mainland China,30.97564,112.2707,2/3/2020,13522
 Anhui,Mainland China,31.82571,117.2264,2/3/2020,480
 Beijing,Mainland China,40.18238,116.4142,2/3/2020,212
 Chongqing,Mainland China,30.05718,107.874,2/3/2020,337
@@ -962,7 +963,6 @@ Hainan,Mainland China,19.19673,109.7455,2/3/2020,79
 Hebei,Mainland China,38.0428,114.5149,2/3/2020,126
 Heilongjiang,Mainland China,47.862,127.7622,2/3/2020,155
 Henan,Mainland China,33.88202,113.614,2/3/2020,675
-Hubei,Mainland China,30.97564,112.2707,2/3/2020,13522
 Hunan,Mainland China,27.61041,111.7088,2/3/2020,521
 Inner Mongolia,Mainland China,44.09448,113.9456,2/3/2020,34
 Jiangsu,Mainland China,32.97027,119.464,2/3/2020,308
@@ -1022,6 +1022,7 @@ South Australia,Australia,-34.9285,138.6007,2/3/2020,2
 Diamond Princess cruise ship,Others,35.4437,129.638,2/3/2020,
 "San Diego County, CA",US,32.7157,-117.1611,2/3/2020,
 "San Antonio, TX",US,29.4241,-98.4936,2/3/2020,
+Hubei,Mainland China,30.97564,112.2707,2/4/2020,16678
 Anhui,Mainland China,31.82571,117.2264,2/4/2020,530
 Beijing,Mainland China,40.18238,116.4142,2/4/2020,228
 Chongqing,Mainland China,30.05718,107.874,2/4/2020,366
@@ -1034,7 +1035,6 @@ Hainan,Mainland China,19.19673,109.7455,2/4/2020,91
 Hebei,Mainland China,38.0428,114.5149,2/4/2020,135
 Heilongjiang,Mainland China,47.862,127.7622,2/4/2020,190
 Henan,Mainland China,33.88202,113.614,2/4/2020,764
-Hubei,Mainland China,30.97564,112.2707,2/4/2020,16678
 Hunan,Mainland China,27.61041,111.7088,2/4/2020,661
 Inner Mongolia,Mainland China,44.09448,113.9456,2/4/2020,42
 Jiangsu,Mainland China,32.97027,119.464,2/4/2020,341
@@ -1094,6 +1094,7 @@ South Australia,Australia,-34.9285,138.6007,2/4/2020,2
 Diamond Princess cruise ship,Others,35.4437,129.638,2/4/2020,
 "San Diego County, CA",US,32.7157,-117.1611,2/4/2020,
 "San Antonio, TX",US,29.4241,-98.4936,2/4/2020,
+Hubei,Mainland China,30.97564,112.2707,2/5/2020,19665
 Anhui,Mainland China,31.82571,117.2264,2/5/2020,591
 Beijing,Mainland China,40.18238,116.4142,2/5/2020,274
 Chongqing,Mainland China,30.05718,107.874,2/5/2020,389
@@ -1106,7 +1107,6 @@ Hainan,Mainland China,19.19673,109.7455,2/5/2020,100
 Hebei,Mainland China,38.0428,114.5149,2/5/2020,157
 Heilongjiang,Mainland China,47.862,127.7622,2/5/2020,227
 Henan,Mainland China,33.88202,113.614,2/5/2020,851
-Hubei,Mainland China,30.97564,112.2707,2/5/2020,19665
 Hunan,Mainland China,27.61041,111.7088,2/5/2020,711
 Inner Mongolia,Mainland China,44.09448,113.9456,2/5/2020,46
 Jiangsu,Mainland China,32.97027,119.464,2/5/2020,373
@@ -1166,6 +1166,7 @@ South Australia,Australia,-34.9285,138.6007,2/5/2020,2
 Diamond Princess cruise ship,Others,35.4437,129.638,2/5/2020,
 "San Diego County, CA",US,32.7157,-117.1611,2/5/2020,
 "San Antonio, TX",US,29.4241,-98.4936,2/5/2020,
+Hubei,Mainland China,30.97564,112.2707,2/6/2020,19665
 Anhui,Mainland China,31.82571,117.2264,2/6/2020,591
 Beijing,Mainland China,40.18238,116.4142,2/6/2020,274
 Chongqing,Mainland China,30.05718,107.874,2/6/2020,400
@@ -1178,7 +1179,6 @@ Hainan,Mainland China,19.19673,109.7455,2/6/2020,106
 Hebei,Mainland China,38.0428,114.5149,2/6/2020,157
 Heilongjiang,Mainland China,47.862,127.7622,2/6/2020,227
 Henan,Mainland China,33.88202,113.614,2/6/2020,851
-Hubei,Mainland China,30.97564,112.2707,2/6/2020,19665
 Hunan,Mainland China,27.61041,111.7088,2/6/2020,711
 Inner Mongolia,Mainland China,44.09448,113.9456,2/6/2020,46
 Jiangsu,Mainland China,32.97027,119.464,2/6/2020,373
@@ -1238,6 +1238,7 @@ South Australia,Australia,-34.9285,138.6007,2/6/2020,2
 Diamond Princess cruise ship,Others,35.4437,129.638,2/6/2020,
 "San Diego County, CA",US,32.7157,-117.1611,2/6/2020,
 "San Antonio, TX",US,29.4241,-98.4936,2/6/2020,
+Hubei,Mainland China,30.97564,112.2707,2/7/2020,24953
 Anhui,Mainland China,31.82571,117.2264,2/7/2020,733
 Beijing,Mainland China,40.18238,116.4142,2/7/2020,315
 Chongqing,Mainland China,30.05718,107.874,2/7/2020,426
@@ -1250,7 +1251,6 @@ Hainan,Mainland China,19.19673,109.7455,2/7/2020,124
 Hebei,Mainland China,38.0428,114.5149,2/7/2020,195
 Heilongjiang,Mainland China,47.862,127.7622,2/7/2020,295
 Henan,Mainland China,33.88202,113.614,2/7/2020,981
-Hubei,Mainland China,30.97564,112.2707,2/7/2020,24953
 Hunan,Mainland China,27.61041,111.7088,2/7/2020,803
 Inner Mongolia,Mainland China,44.09448,113.9456,2/7/2020,52
 Jiangsu,Mainland China,32.97027,119.464,2/7/2020,439
@@ -1310,6 +1310,7 @@ South Australia,Australia,-34.9285,138.6007,2/7/2020,2
 Diamond Princess cruise ship,Others,35.4437,129.638,2/7/2020,61
 "San Diego County, CA",US,32.7157,-117.1611,2/7/2020,
 "San Antonio, TX",US,29.4241,-98.4936,2/7/2020,
+Hubei,Mainland China,30.97564,112.2707,2/8/2020,27100
 Anhui,Mainland China,31.82571,117.2264,2/8/2020,779
 Beijing,Mainland China,40.18238,116.4142,2/8/2020,326
 Chongqing,Mainland China,30.05718,107.874,2/8/2020,446
@@ -1322,7 +1323,6 @@ Hainan,Mainland China,19.19673,109.7455,2/8/2020,128
 Hebei,Mainland China,38.0428,114.5149,2/8/2020,206
 Heilongjiang,Mainland China,47.862,127.7622,2/8/2020,307
 Henan,Mainland China,33.88202,113.614,2/8/2020,1033
-Hubei,Mainland China,30.97564,112.2707,2/8/2020,27100
 Hunan,Mainland China,27.61041,111.7088,2/8/2020,838
 Inner Mongolia,Mainland China,44.09448,113.9456,2/8/2020,54
 Jiangsu,Mainland China,32.97027,119.464,2/8/2020,468
@@ -1382,6 +1382,7 @@ South Australia,Australia,-34.9285,138.6007,2/8/2020,2
 Diamond Princess cruise ship,Others,35.4437,129.638,2/8/2020,61
 "San Diego County, CA",US,32.7157,-117.1611,2/8/2020,
 "San Antonio, TX",US,29.4241,-98.4936,2/8/2020,
+Hubei,Mainland China,30.97564,112.2707,2/9/2020,29631
 Anhui,Mainland China,31.82571,117.2264,2/9/2020,830
 Beijing,Mainland China,40.18238,116.4142,2/9/2020,337
 Chongqing,Mainland China,30.05718,107.874,2/9/2020,468
@@ -1394,7 +1395,6 @@ Hainan,Mainland China,19.19673,109.7455,2/9/2020,136
 Hebei,Mainland China,38.0428,114.5149,2/9/2020,218
 Heilongjiang,Mainland China,47.862,127.7622,2/9/2020,331
 Henan,Mainland China,33.88202,113.614,2/9/2020,1073
-Hubei,Mainland China,30.97564,112.2707,2/9/2020,29631
 Hunan,Mainland China,27.61041,111.7088,2/9/2020,879
 Inner Mongolia,Mainland China,44.09448,113.9456,2/9/2020,58
 Jiangsu,Mainland China,32.97027,119.464,2/9/2020,492
@@ -1454,6 +1454,7 @@ South Australia,Australia,-34.9285,138.6007,2/9/2020,2
 Diamond Princess cruise ship,Others,35.4437,129.638,2/9/2020,64
 "San Diego County, CA",US,32.7157,-117.1611,2/9/2020,
 "San Antonio, TX",US,29.4241,-98.4936,2/9/2020,
+Hubei,Mainland China,30.97564,112.2707,2/10/2020,31728
 Anhui,Mainland China,31.82571,117.2264,2/10/2020,830
 Beijing,Mainland China,40.18238,116.4142,2/10/2020,337
 Chongqing,Mainland China,30.05718,107.874,2/10/2020,486
@@ -1466,7 +1467,6 @@ Hainan,Mainland China,19.19673,109.7455,2/10/2020,138
 Hebei,Mainland China,38.0428,114.5149,2/10/2020,218
 Heilongjiang,Mainland China,47.862,127.7622,2/10/2020,331
 Henan,Mainland China,33.88202,113.614,2/10/2020,1073
-Hubei,Mainland China,30.97564,112.2707,2/10/2020,31728
 Hunan,Mainland China,27.61041,111.7088,2/10/2020,879
 Inner Mongolia,Mainland China,44.09448,113.9456,2/10/2020,58
 Jiangsu,Mainland China,32.97027,119.464,2/10/2020,492
@@ -1526,6 +1526,7 @@ South Australia,Australia,-34.9285,138.6007,2/10/2020,2
 Diamond Princess cruise ship,Others,35.4437,129.638,2/10/2020,135
 "San Diego County, CA",US,32.7157,-117.1611,2/10/2020,
 "San Antonio, TX",US,29.4241,-98.4936,2/10/2020,
+Hubei,Mainland China,30.97564,112.2707,2/11/2020,33366
 Anhui,Mainland China,31.82571,117.2264,2/11/2020,889
 Beijing,Mainland China,40.18238,116.4142,2/11/2020,342
 Chongqing,Mainland China,30.05718,107.874,2/11/2020,505
@@ -1538,7 +1539,6 @@ Hainan,Mainland China,19.19673,109.7455,2/11/2020,151
 Hebei,Mainland China,38.0428,114.5149,2/11/2020,251
 Heilongjiang,Mainland China,47.862,127.7622,2/11/2020,378
 Henan,Mainland China,33.88202,113.614,2/11/2020,1135
-Hubei,Mainland China,30.97564,112.2707,2/11/2020,33366
 Hunan,Mainland China,27.61041,111.7088,2/11/2020,946
 Inner Mongolia,Mainland China,44.09448,113.9456,2/11/2020,58
 Jiangsu,Mainland China,32.97027,119.464,2/11/2020,543
@@ -1598,6 +1598,7 @@ South Australia,Australia,-34.9285,138.6007,2/11/2020,2
 Diamond Princess cruise ship,Others,35.4437,129.638,2/11/2020,135
 "San Diego County, CA",US,32.7157,-117.1611,2/11/2020,1
 "San Antonio, TX",US,29.4241,-98.4936,2/11/2020,
+Hubei,Mainland China,30.97564,112.2707,2/12/2020,48206
 Anhui,Mainland China,31.82571,117.2264,2/12/2020,910
 Beijing,Mainland China,40.18238,116.4142,2/12/2020,366
 Chongqing,Mainland China,30.05718,107.874,2/12/2020,518
@@ -1610,7 +1611,6 @@ Hainan,Mainland China,19.19673,109.7455,2/12/2020,157
 Hebei,Mainland China,38.0428,114.5149,2/12/2020,265
 Heilongjiang,Mainland China,47.862,127.7622,2/12/2020,395
 Henan,Mainland China,33.88202,113.614,2/12/2020,1169
-Hubei,Mainland China,30.97564,112.2707,2/12/2020,48206
 Hunan,Mainland China,27.61041,111.7088,2/12/2020,968
 Inner Mongolia,Mainland China,44.09448,113.9456,2/12/2020,61
 Jiangsu,Mainland China,32.97027,119.464,2/12/2020,570
@@ -1670,6 +1670,7 @@ South Australia,Australia,-34.9285,138.6007,2/12/2020,2
 Diamond Princess cruise ship,Others,35.4437,129.638,2/12/2020,175
 "San Diego County, CA",US,32.7157,-117.1611,2/12/2020,1
 "San Antonio, TX",US,29.4241,-98.4936,2/12/2020,
+Hubei,Mainland China,30.97564,112.2707,2/13/2020,51986
 Anhui,Mainland China,31.82571,117.2264,2/13/2020,934
 Beijing,Mainland China,40.18238,116.4142,2/13/2020,366
 Chongqing,Mainland China,30.05718,107.874,2/13/2020,529
@@ -1682,7 +1683,6 @@ Hainan,Mainland China,19.19673,109.7455,2/13/2020,158
 Hebei,Mainland China,38.0428,114.5149,2/13/2020,283
 Heilongjiang,Mainland China,47.862,127.7622,2/13/2020,418
 Henan,Mainland China,33.88202,113.614,2/13/2020,1184
-Hubei,Mainland China,30.97564,112.2707,2/13/2020,51986
 Hunan,Mainland China,27.61041,111.7088,2/13/2020,988
 Inner Mongolia,Mainland China,44.09448,113.9456,2/13/2020,65
 Jiangsu,Mainland China,32.97027,119.464,2/13/2020,593
@@ -1742,6 +1742,7 @@ South Australia,Australia,-34.9285,138.6007,2/13/2020,2
 Diamond Princess cruise ship,Others,35.4437,129.638,2/13/2020,218
 "San Diego County, CA",US,32.7157,-117.1611,2/13/2020,2
 "San Antonio, TX",US,29.4241,-98.4936,2/13/2020,1
+Hubei,Mainland China,30.97564,112.2707,2/14/2020,51986
 Anhui,Mainland China,31.82571,117.2264,2/14/2020,934
 Beijing,Mainland China,40.18238,116.4142,2/14/2020,372
 Chongqing,Mainland China,30.05718,107.874,2/14/2020,532
@@ -1754,7 +1755,6 @@ Hainan,Mainland China,19.19673,109.7455,2/14/2020,159
 Hebei,Mainland China,38.0428,114.5149,2/14/2020,283
 Heilongjiang,Mainland China,47.862,127.7622,2/14/2020,419
 Henan,Mainland China,33.88202,113.614,2/14/2020,1184
-Hubei,Mainland China,30.97564,112.2707,2/14/2020,51986
 Hunan,Mainland China,27.61041,111.7088,2/14/2020,988
 Inner Mongolia,Mainland China,44.09448,113.9456,2/14/2020,65
 Jiangsu,Mainland China,32.97027,119.464,2/14/2020,593
