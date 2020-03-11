@@ -42,8 +42,11 @@ const g = svg.append('g')
 let numCases = 0;
 let date = '1/21/2020';
 
+// geo json was created from https://geojson-maps.ash.ms/
 d3.json('asiageo.json').then(function(data) {
 
+    // csv data was obtained from https://github.com/CSSEGISandData and can be downloaded here:
+    // https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data/archived_time_series
     d3.csv('Confirmed.csv').then(function(pointData) {
 
         // draw map
